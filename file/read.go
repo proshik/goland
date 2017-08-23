@@ -16,7 +16,7 @@ func main() {
 
 	readFileByLine()
 
-	readFileByLineToEnd()
+	//readFileByLineToEnd()
 
 	simpleCopyFiles()
 
@@ -27,7 +27,7 @@ func main() {
 
 func readFileByLineToEnd() {
 
-	fi, err := os.Open("./file/kipling.txt")
+	fi, err := os.Open("./file/texts/kipling.txt")
 	if err != nil {
 		panic(err)
 	}
@@ -79,7 +79,7 @@ func readFileByLineToEnd() {
 }
 
 func simpleReadFile() {
-	dat, err := ioutil.ReadFile("./file/kipling.txt")
+	dat, err := ioutil.ReadFile("./file/texts/kipling.txt")
 	if err != nil {
 		panic(err)
 	}
@@ -89,7 +89,7 @@ func simpleReadFile() {
 
 func readPartFile() {
 
-	file, err := os.Open("./file/kipling.txt")
+	file, err := os.Open("./file/texts/kipling.txt")
 	if err != nil {
 		panic(err)
 	}
@@ -109,7 +109,7 @@ func readPartFile() {
 }
 
 func readFileByLine() {
-	fi, err := os.Open("./file/kipling.txt")
+	fi, err := os.Open("./file/texts/kipling.txt")
 	if err != nil {
 		panic(err)
 	}
@@ -130,7 +130,7 @@ func readFileByLine() {
 
 func simpleCopyFiles() {
 	// open input file
-	fi, err := os.Open("./file/kipling.txt")
+	fi, err := os.Open("./file/texts/kipling.txt")
 	if err != nil {
 		panic(err)
 	}
@@ -142,7 +142,7 @@ func simpleCopyFiles() {
 	}()
 
 	// open output file
-	fo, err := os.Create("./file/kipling_s_out.txt")
+	fo, err := os.Create("./file/texts/kipling_s_out.txt")
 	if err != nil {
 		panic(err)
 	}
@@ -173,7 +173,7 @@ func simpleCopyFiles() {
 }
 func copyFilesWithBufio() {
 	// open input file
-	fi, err := os.Open("./file/kipling.txt")
+	fi, err := os.Open("./file/texts/kipling.txt")
 	if err != nil {
 		panic(err)
 	}
@@ -187,7 +187,7 @@ func copyFilesWithBufio() {
 	r := bufio.NewReader(fi)
 
 	// open output file
-	fo, err := os.Create("./file/kipling_b_out.txt")
+	fo, err := os.Create("./file/texts/kipling_b_out.txt")
 	if err != nil {
 		panic(err)
 	}
@@ -225,13 +225,13 @@ func copyFilesWithBufio() {
 
 func copyFilesWithIOutil() {
 	// read the whole file at once
-	b, err := ioutil.ReadFile("./file/kipling.txt")
+	b, err := ioutil.ReadFile("./file/texts/kipling.txt")
 	if err != nil {
 		panic(err)
 	}
 
 	// write the whole body at once
-	err = ioutil.WriteFile("./file/kipling_i_out.txt", b, 0644)
+	err = ioutil.WriteFile("./file/texts/kipling_i_out.txt", b, 0644)
 	if err != nil {
 		panic(err)
 	}

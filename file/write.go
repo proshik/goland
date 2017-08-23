@@ -87,7 +87,7 @@ func writePrettyJson() {
 		fmt.Println("error:", err)
 	}
 
-	err = ioutil.WriteFile("./file/message.json", b, 06444)
+	err = ioutil.WriteFile("./file/texts/message.json", b, 06444)
 	if err != nil {
 		panic(err)
 	}
