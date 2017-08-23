@@ -76,7 +76,6 @@ func readFileByLineToEnd() {
 			fmt.Println(str)
 		}
 	}
-
 }
 
 func simpleReadFile() {
