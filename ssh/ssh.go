@@ -7,7 +7,6 @@ import (
 	"log"
 	"net"
 	"strings"
-
 	"golang.org/x/crypto/ssh"
 	"time"
 	"flag"

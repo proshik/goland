@@ -1,0 +1,9 @@
+{{define "title"}}Word groups{{end}}
+
+{{define "content"}}
+
+{{range $group := .}}
+<p><a href="/words?group={{$group.Num}}">{{$group.Title}}</a></p>
+{{end}}
+
+{{end}}

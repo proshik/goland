@@ -1,0 +1,9 @@
+{{define "title"}}{{.Title}}{{end}}
+
+{{define "content"}}
+{{range $word := .Words}}
+
+<p><a href="https://translate.yandex.ru/?lang=en-ru&text={{$word.Value}}">{{$word.Value}}</a> - {{$word.Translate}}</p>
+
+{{end}}
+{{end}}
