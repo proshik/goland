@@ -74,6 +74,10 @@ func main() {
 	groups = append(groups,
 		Group{2, "Общие ", []Word{{"account", "счет"}, {"act", "действия"}}})
 
+	dir := http.Dir("./template/")
+	handler := http.FileServer(dir)
+	http.Handle("/static/", handler)
+
 	http.HandleFunc("/", displayIndex)
 	http.HandleFunc("/groups", displayGroups)
 	http.HandleFunc("/rules", displayRules)
