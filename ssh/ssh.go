@@ -2,14 +2,14 @@ package main
 
 import (
 	"bufio"
+	"flag"
 	"fmt"
+	"golang.org/x/crypto/ssh"
 	"io"
 	"log"
 	"net"
 	"strings"
-	"golang.org/x/crypto/ssh"
 	"time"
-	"flag"
 )
 
 type Connection struct {

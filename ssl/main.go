@@ -22,8 +22,8 @@ import (
 
 const (
 	allowedHost = "githubstatbot.proshik.ru"
-	htmlIndex = `<html><body>Welcome!</body></html>`
-	httpPort  = "127.0.0.1:80"
+	htmlIndex   = `<html><body>Welcome!</body></html>`
+	httpPort    = "127.0.0.1:80"
 )
 
 var (

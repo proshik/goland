@@ -1,9 +1,9 @@
 package main
 
 import (
+	"fmt"
 	"html/template"
 	"net/http"
-	"fmt"
 	"strconv"
 )
 
@@ -42,7 +42,7 @@ func displayGroups(w http.ResponseWriter, r *http.Request) {
 	t["groups.html"].ExecuteTemplate(w, "base", groups)
 }
 
-func displayRules(w http.ResponseWriter, r *http.Request){
+func displayRules(w http.ResponseWriter, r *http.Request) {
 	t["rules.html"].ExecuteTemplate(w, "base", groups)
 }
 

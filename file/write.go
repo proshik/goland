@@ -1,11 +1,11 @@
 package main
 
 import (
-	"io/ioutil"
-	"os"
-	"fmt"
 	"bufio"
 	"encoding/json"
+	"fmt"
+	"io/ioutil"
+	"os"
 )
 
 type Message struct {
@@ -49,7 +49,7 @@ func writeToOpeningFile() {
 
 	d2 := []byte{115, 111, 109, 101, 10}
 	n2, err := f.Write(d2)
-	if err != nil{
+	if err != nil {
 		panic(err)
 	}
 

@@ -1,11 +1,11 @@
 package main
 
 import (
-	"io/ioutil"
-	"fmt"
-	"os"
-	"io"
 	"bufio"
+	"fmt"
+	"io"
+	"io/ioutil"
+	"os"
 )
 
 func main() {
@@ -49,7 +49,6 @@ func readFileByLineToEnd() {
 		panic(err)
 	}
 
-
 	fmt.Println(ret)
 
 	r := bufio.NewReader(fi)
@@ -69,7 +68,7 @@ func readFileByLineToEnd() {
 	for {
 		if r.Buffered() != 0 {
 			str, err := r.ReadString('\n')
-			if err != nil{
+			if err != nil {
 				panic(err)
 			}
 

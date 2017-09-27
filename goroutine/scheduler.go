@@ -1,16 +1,16 @@
 package main
 
 import (
+	"fmt"
 	"runtime"
 	"time"
-	"fmt"
 )
 
 //never end
 func main() {
 	var x int
 	threads := runtime.GOMAXPROCS(0)
-	for i := 0; i < threads; i ++ {
+	for i := 0; i < threads; i++ {
 		go func() {
 			for {
 				x++
