@@ -1,0 +1,1 @@
+Example for post: https://appliedgo.net/networking/

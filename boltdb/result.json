@@ -1,0 +1,4322 @@
+[
+	{
+		"text": "able",
+		"category": "Basic English words",
+		"subcategory": "Выражения качества"
+	},
+	{
+		"text": "acid",
+		"category": "Basic English words",
+		"subcategory": "Выражения качества"
+	},
+	{
+		"text": "angry",
+		"category": "Basic English words",
+		"subcategory": "Выражения качества"
+	},
+	{
+		"text": "beautiful",
+		"category": "Basic English words",
+		"subcategory": "Выражения качества"
+	},
+	{
+		"text": "black",
+		"category": "Basic English words",
+		"subcategory": "Выражения качества"
+	},
+	{
+		"text": "boiling",
+		"category": "Basic English words",
+		"subcategory": "Выражения качества"
+	},
+	{
+		"text": "bright",
+		"category": "Basic English words",
+		"subcategory": "Выражения качества"
+	},
+	{
+		"text": "broken",
+		"category": "Basic English words",
+		"subcategory": "Выражения качества"
+	},
+	{
+		"text": "brown",
+		"category": "Basic English words",
+		"subcategory": "Выражения качества"
+	},
+	{
+		"text": "cheap",
+		"category": "Basic English words",
+		"subcategory": "Выражения качества"
+	},
+	{
+		"text": "chemical",
+		"category": "Basic English words",
+		"subcategory": "Выражения качества"
+	},
+	{
+		"text": "chief",
+		"category": "Basic English words",
+		"subcategory": "Выражения качества"
+	},
+	{
+		"text": "clean",
+		"category": "Basic English words",
+		"subcategory": "Выражения качества"
+	},
+	{
+		"text": "clear",
+		"category": "Basic English words",
+		"subcategory": "Выражения качества"
+	},
+	{
+		"text": "common",
+		"category": "Basic English words",
+		"subcategory": "Выражения качества"
+	},
+	{
+		"text": "complex",
+		"category": "Basic English words",
+		"subcategory": "Выражения качества"
+	},
+	{
+		"text": "conscious",
+		"category": "Basic English words",
+		"subcategory": "Выражения качества"
+	},
+	{
+		"text": "cut",
+		"category": "Basic English words",
+		"subcategory": "Выражения качества"
+	},
+	{
+		"text": "deep",
+		"category": "Basic English words",
+		"subcategory": "Выражения качества"
+	},
+	{
+		"text": "dependent",
+		"category": "Basic English words",
+		"subcategory": "Выражения качества"
+	},
+	{
+		"text": "early",
+		"category": "Basic English words",
+		"subcategory": "Выражения качества"
+	},
+	{
+		"text": "elastic",
+		"category": "Basic English words",
+		"subcategory": "Выражения качества"
+	},
+	{
+		"text": "equal",
+		"category": "Basic English words",
+		"subcategory": "Выражения качества"
+	},
+	{
+		"text": "fat",
+		"category": "Basic English words",
+		"subcategory": "Выражения качества"
+	},
+	{
+		"text": "fertile",
+		"category": "Basic English words",
+		"subcategory": "Выражения качества"
+	},
+	{
+		"text": "first",
+		"category": "Basic English words",
+		"subcategory": "Выражения качества"
+	},
+	{
+		"text": "fixed",
+		"category": "Basic English words",
+		"subcategory": "Выражения качества"
+	},
+	{
+		"text": "flat",
+		"category": "Basic English words",
+		"subcategory": "Выражения качества"
+	},
+	{
+		"text": "free",
+		"category": "Basic English words",
+		"subcategory": "Выражения качества"
+	},
+	{
+		"text": "frequent",
+		"category": "Basic English words",
+		"subcategory": "Выражения качества"
+	},
+	{
+		"text": "full",
+		"category": "Basic English words",
+		"subcategory": "Выражения качества"
+	},
+	{
+		"text": "general",
+		"category": "Basic English words",
+		"subcategory": "Выражения качества"
+	},
+	{
+		"text": "good",
+		"category": "Basic English words",
+		"subcategory": "Выражения качества"
+	},
+	{
+		"text": "great",
+		"category": "Basic English words",
+		"subcategory": "Выражения качества"
+	},
+	{
+		"text": "grey|gray",
+		"category": "Basic English words",
+		"subcategory": "Выражения качества"
+	},
+	{
+		"text": "hanging",
+		"category": "Basic English words",
+		"subcategory": "Выражения качества"
+	},
+	{
+		"text": "happy",
+		"category": "Basic English words",
+		"subcategory": "Выражения качества"
+	},
+	{
+		"text": "hard",
+		"category": "Basic English words",
+		"subcategory": "Выражения качества"
+	},
+	{
+		"text": "healthy",
+		"category": "Basic English words",
+		"subcategory": "Выражения качества"
+	},
+	{
+		"text": "high",
+		"category": "Basic English words",
+		"subcategory": "Выражения качества"
+	},
+	{
+		"text": "hollow",
+		"category": "Basic English words",
+		"subcategory": "Выражения качества"
+	},
+	{
+		"text": "important",
+		"category": "Basic English words",
+		"subcategory": "Выражения качества"
+	},
+	{
+		"text": "jewel",
+		"category": "Basic English words",
+		"subcategory": "Выражения качества"
+	},
+	{
+		"text": "kind",
+		"category": "Basic English words",
+		"subcategory": "Выражения качества"
+	},
+	{
+		"text": "like",
+		"category": "Basic English words",
+		"subcategory": "Выражения качества"
+	},
+	{
+		"text": "living",
+		"category": "Basic English words",
+		"subcategory": "Выражения качества"
+	},
+	{
+		"text": "long",
+		"category": "Basic English words",
+		"subcategory": "Выражения качества"
+	},
+	{
+		"text": "male",
+		"category": "Basic English words",
+		"subcategory": "Выражения качества"
+	},
+	{
+		"text": "married",
+		"category": "Basic English words",
+		"subcategory": "Выражения качества"
+	},
+	{
+		"text": "material",
+		"category": "Basic English words",
+		"subcategory": "Выражения качества"
+	},
+	{
+		"text": "medical",
+		"category": "Basic English words",
+		"subcategory": "Выражения качества"
+	},
+	{
+		"text": "military",
+		"category": "Basic English words",
+		"subcategory": "Выражения качества"
+	},
+	{
+		"text": "natural",
+		"category": "Basic English words",
+		"subcategory": "Выражения качества"
+	},
+	{
+		"text": "necessary",
+		"category": "Basic English words",
+		"subcategory": "Выражения качества"
+	},
+	{
+		"text": "new",
+		"category": "Basic English words",
+		"subcategory": "Выражения качества"
+	},
+	{
+		"text": "normal",
+		"category": "Basic English words",
+		"subcategory": "Выражения качества"
+	},
+	{
+		"text": "open",
+		"category": "Basic English words",
+		"subcategory": "Выражения качества"
+	},
+	{
+		"text": "parallel",
+		"category": "Basic English words",
+		"subcategory": "Выражения качества"
+	},
+	{
+		"text": "past",
+		"category": "Basic English words",
+		"subcategory": "Выражения качества"
+	},
+	{
+		"text": "physical",
+		"category": "Basic English words",
+		"subcategory": "Выражения качества"
+	},
+	{
+		"text": "political",
+		"category": "Basic English words",
+		"subcategory": "Выражения качества"
+	},
+	{
+		"text": "poor",
+		"category": "Basic English words",
+		"subcategory": "Выражения качества"
+	},
+	{
+		"text": "possible",
+		"category": "Basic English words",
+		"subcategory": "Выражения качества"
+	},
+	{
+		"text": "present",
+		"category": "Basic English words",
+		"subcategory": "Выражения качества"
+	},
+	{
+		"text": "private",
+		"category": "Basic English words",
+		"subcategory": "Выражения качества"
+	},
+	{
+		"text": "probable",
+		"category": "Basic English words",
+		"subcategory": "Выражения качества"
+	},
+	{
+		"text": "quick",
+		"category": "Basic English words",
+		"subcategory": "Выражения качества"
+	},
+	{
+		"text": "quiet",
+		"category": "Basic English words",
+		"subcategory": "Выражения качества"
+	},
+	{
+		"text": "ready",
+		"category": "Basic English words",
+		"subcategory": "Выражения качества"
+	},
+	{
+		"text": "read",
+		"category": "Basic English words",
+		"subcategory": "Выражения качества"
+	},
+	{
+		"text": "read",
+		"category": "Basic English words",
+		"subcategory": "Выражения качества"
+	},
+	{
+		"text": "regular",
+		"category": "Basic English words",
+		"subcategory": "Выражения качества"
+	},
+	{
+		"text": "responsible",
+		"category": "Basic English words",
+		"subcategory": "Выражения качества"
+	},
+	{
+		"text": "right",
+		"category": "Basic English words",
+		"subcategory": "Выражения качества"
+	},
+	{
+		"text": "round",
+		"category": "Basic English words",
+		"subcategory": "Выражения качества"
+	},
+	{
+		"text": "same",
+		"category": "Basic English words",
+		"subcategory": "Выражения качества"
+	},
+	{
+		"text": "second",
+		"category": "Basic English words",
+		"subcategory": "Выражения качества"
+	},
+	{
+		"text": "separate",
+		"category": "Basic English words",
+		"subcategory": "Выражения качества"
+	},
+	{
+		"text": "serious",
+		"category": "Basic English words",
+		"subcategory": "Выражения качества"
+	},
+	{
+		"text": "sharp",
+		"category": "Basic English words",
+		"subcategory": "Выражения качества"
+	},
+	{
+		"text": "smooth",
+		"category": "Basic English words",
+		"subcategory": "Выражения качества"
+	},
+	{
+		"text": "sticky",
+		"category": "Basic English words",
+		"subcategory": "Выражения качества"
+	},
+	{
+		"text": "stiff",
+		"category": "Basic English words",
+		"subcategory": "Выражения качества"
+	},
+	{
+		"text": "straight",
+		"category": "Basic English words",
+		"subcategory": "Выражения качества"
+	},
+	{
+		"text": "strong",
+		"category": "Basic English words",
+		"subcategory": "Выражения качества"
+	},
+	{
+		"text": "sudden",
+		"category": "Basic English words",
+		"subcategory": "Выражения качества"
+	},
+	{
+		"text": "sweet",
+		"category": "Basic English words",
+		"subcategory": "Выражения качества"
+	},
+	{
+		"text": "tall",
+		"category": "Basic English words",
+		"subcategory": "Выражения качества"
+	},
+	{
+		"text": "thick",
+		"category": "Basic English words",
+		"subcategory": "Выражения качества"
+	},
+	{
+		"text": "tight",
+		"category": "Basic English words",
+		"subcategory": "Выражения качества"
+	},
+	{
+		"text": "tired",
+		"category": "Basic English words",
+		"subcategory": "Выражения качества"
+	},
+	{
+		"text": "true",
+		"category": "Basic English words",
+		"subcategory": "Выражения качества"
+	},
+	{
+		"text": "violent",
+		"category": "Basic English words",
+		"subcategory": "Выражения качества"
+	},
+	{
+		"text": "waiting",
+		"category": "Basic English words",
+		"subcategory": "Выражения качества"
+	},
+	{
+		"text": "warm",
+		"category": "Basic English words",
+		"subcategory": "Выражения качества"
+	},
+	{
+		"text": "wet",
+		"category": "Basic English words",
+		"subcategory": "Выражения качества"
+	},
+	{
+		"text": "wide",
+		"category": "Basic English words",
+		"subcategory": "Выражения качества"
+	},
+	{
+		"text": "wise",
+		"category": "Basic English words",
+		"subcategory": "Выражения качества"
+	},
+	{
+		"text": "yellow",
+		"category": "Basic English words",
+		"subcategory": "Выражения качества"
+	},
+	{
+		"text": "young",
+		"category": "Basic English words",
+		"subcategory": "Выражения качества"
+	},
+	{
+		"text": "come",
+		"category": "Basic English words",
+		"subcategory": "Действия и движение"
+	},
+	{
+		"text": "get",
+		"category": "Basic English words",
+		"subcategory": "Действия и движение"
+	},
+	{
+		"text": "give",
+		"category": "Basic English words",
+		"subcategory": "Действия и движение"
+	},
+	{
+		"text": "go",
+		"category": "Basic English words",
+		"subcategory": "Действия и движение"
+	},
+	{
+		"text": "keep",
+		"category": "Basic English words",
+		"subcategory": "Действия и движение"
+	},
+	{
+		"text": "let",
+		"category": "Basic English words",
+		"subcategory": "Действия и движение"
+	},
+	{
+		"text": "make",
+		"category": "Basic English words",
+		"subcategory": "Действия и движение"
+	},
+	{
+		"text": "put",
+		"category": "Basic English words",
+		"subcategory": "Действия и движение"
+	},
+	{
+		"text": "seem",
+		"category": "Basic English words",
+		"subcategory": "Действия и движение"
+	},
+	{
+		"text": "take",
+		"category": "Basic English words",
+		"subcategory": "Действия и движение"
+	},
+	{
+		"text": "be",
+		"category": "Basic English words",
+		"subcategory": "Действия и движение"
+	},
+	{
+		"text": "do",
+		"category": "Basic English words",
+		"subcategory": "Действия и движение"
+	},
+	{
+		"text": "have",
+		"category": "Basic English words",
+		"subcategory": "Действия и движение"
+	},
+	{
+		"text": "say",
+		"category": "Basic English words",
+		"subcategory": "Действия и движение"
+	},
+	{
+		"text": "see",
+		"category": "Basic English words",
+		"subcategory": "Действия и движение"
+	},
+	{
+		"text": "send",
+		"category": "Basic English words",
+		"subcategory": "Действия и движение"
+	},
+	{
+		"text": "may",
+		"category": "Basic English words",
+		"subcategory": "Действия и движение"
+	},
+	{
+		"text": "will",
+		"category": "Basic English words",
+		"subcategory": "Действия и движение"
+	},
+	{
+		"text": "about",
+		"category": "Basic English words",
+		"subcategory": "Действия и движение"
+	},
+	{
+		"text": "across",
+		"category": "Basic English words",
+		"subcategory": "Действия и движение"
+	},
+	{
+		"text": "after",
+		"category": "Basic English words",
+		"subcategory": "Действия и движение"
+	},
+	{
+		"text": "against",
+		"category": "Basic English words",
+		"subcategory": "Действия и движение"
+	},
+	{
+		"text": "among",
+		"category": "Basic English words",
+		"subcategory": "Действия и движение"
+	},
+	{
+		"text": "at",
+		"category": "Basic English words",
+		"subcategory": "Действия и движение"
+	},
+	{
+		"text": "before",
+		"category": "Basic English words",
+		"subcategory": "Действия и движение"
+	},
+	{
+		"text": "between",
+		"category": "Basic English words",
+		"subcategory": "Действия и движение"
+	},
+	{
+		"text": "by",
+		"category": "Basic English words",
+		"subcategory": "Действия и движение"
+	},
+	{
+		"text": "down",
+		"category": "Basic English words",
+		"subcategory": "Действия и движение"
+	},
+	{
+		"text": "from",
+		"category": "Basic English words",
+		"subcategory": "Действия и движение"
+	},
+	{
+		"text": "in",
+		"category": "Basic English words",
+		"subcategory": "Действия и движение"
+	},
+	{
+		"text": "off",
+		"category": "Basic English words",
+		"subcategory": "Действия и движение"
+	},
+	{
+		"text": "on",
+		"category": "Basic English words",
+		"subcategory": "Действия и движение"
+	},
+	{
+		"text": "over",
+		"category": "Basic English words",
+		"subcategory": "Действия и движение"
+	},
+	{
+		"text": "through",
+		"category": "Basic English words",
+		"subcategory": "Действия и движение"
+	},
+	{
+		"text": "to",
+		"category": "Basic English words",
+		"subcategory": "Действия и движение"
+	},
+	{
+		"text": "under",
+		"category": "Basic English words",
+		"subcategory": "Действия и движение"
+	},
+	{
+		"text": "up",
+		"category": "Basic English words",
+		"subcategory": "Действия и движение"
+	},
+	{
+		"text": "with",
+		"category": "Basic English words",
+		"subcategory": "Действия и движение"
+	},
+	{
+		"text": "as",
+		"category": "Basic English words",
+		"subcategory": "Действия и движение"
+	},
+	{
+		"text": "for",
+		"category": "Basic English words",
+		"subcategory": "Действия и движение"
+	},
+	{
+		"text": "of",
+		"category": "Basic English words",
+		"subcategory": "Действия и движение"
+	},
+	{
+		"text": "till",
+		"category": "Basic English words",
+		"subcategory": "Действия и движение"
+	},
+	{
+		"text": "than",
+		"category": "Basic English words",
+		"subcategory": "Действия и движение"
+	},
+	{
+		"text": "a",
+		"category": "Basic English words",
+		"subcategory": "Действия и движение"
+	},
+	{
+		"text": "the",
+		"category": "Basic English words",
+		"subcategory": "Действия и движение"
+	},
+	{
+		"text": "all",
+		"category": "Basic English words",
+		"subcategory": "Действия и движение"
+	},
+	{
+		"text": "any",
+		"category": "Basic English words",
+		"subcategory": "Действия и движение"
+	},
+	{
+		"text": "every",
+		"category": "Basic English words",
+		"subcategory": "Действия и движение"
+	},
+	{
+		"text": "no",
+		"category": "Basic English words",
+		"subcategory": "Действия и движение"
+	},
+	{
+		"text": "other",
+		"category": "Basic English words",
+		"subcategory": "Действия и движение"
+	},
+	{
+		"text": "some",
+		"category": "Basic English words",
+		"subcategory": "Действия и движение"
+	},
+	{
+		"text": "such",
+		"category": "Basic English words",
+		"subcategory": "Действия и движение"
+	},
+	{
+		"text": "that",
+		"category": "Basic English words",
+		"subcategory": "Действия и движение"
+	},
+	{
+		"text": "this",
+		"category": "Basic English words",
+		"subcategory": "Действия и движение"
+	},
+	{
+		"text": "i",
+		"category": "Basic English words",
+		"subcategory": "Действия и движение"
+	},
+	{
+		"text": "he",
+		"category": "Basic English words",
+		"subcategory": "Действия и движение"
+	},
+	{
+		"text": "you",
+		"category": "Basic English words",
+		"subcategory": "Действия и движение"
+	},
+	{
+		"text": "who",
+		"category": "Basic English words",
+		"subcategory": "Действия и движение"
+	},
+	{
+		"text": "and",
+		"category": "Basic English words",
+		"subcategory": "Действия и движение"
+	},
+	{
+		"text": "because",
+		"category": "Basic English words",
+		"subcategory": "Действия и движение"
+	},
+	{
+		"text": "but",
+		"category": "Basic English words",
+		"subcategory": "Действия и движение"
+	},
+	{
+		"text": "or",
+		"category": "Basic English words",
+		"subcategory": "Действия и движение"
+	},
+	{
+		"text": "if",
+		"category": "Basic English words",
+		"subcategory": "Действия и движение"
+	},
+	{
+		"text": "though",
+		"category": "Basic English words",
+		"subcategory": "Действия и движение"
+	},
+	{
+		"text": "while",
+		"category": "Basic English words",
+		"subcategory": "Действия и движение"
+	},
+	{
+		"text": "how",
+		"category": "Basic English words",
+		"subcategory": "Действия и движение"
+	},
+	{
+		"text": "when",
+		"category": "Basic English words",
+		"subcategory": "Действия и движение"
+	},
+	{
+		"text": "where",
+		"category": "Basic English words",
+		"subcategory": "Действия и движение"
+	},
+	{
+		"text": "why",
+		"category": "Basic English words",
+		"subcategory": "Действия и движение"
+	},
+	{
+		"text": "again",
+		"category": "Basic English words",
+		"subcategory": "Действия и движение"
+	},
+	{
+		"text": "ever",
+		"category": "Basic English words",
+		"subcategory": "Действия и движение"
+	},
+	{
+		"text": "far",
+		"category": "Basic English words",
+		"subcategory": "Действия и движение"
+	},
+	{
+		"text": "forward",
+		"category": "Basic English words",
+		"subcategory": "Действия и движение"
+	},
+	{
+		"text": "here",
+		"category": "Basic English words",
+		"subcategory": "Действия и движение"
+	},
+	{
+		"text": "near",
+		"category": "Basic English words",
+		"subcategory": "Действия и движение"
+	},
+	{
+		"text": "now",
+		"category": "Basic English words",
+		"subcategory": "Действия и движение"
+	},
+	{
+		"text": "out",
+		"category": "Basic English words",
+		"subcategory": "Действия и движение"
+	},
+	{
+		"text": "still",
+		"category": "Basic English words",
+		"subcategory": "Действия и движение"
+	},
+	{
+		"text": "then",
+		"category": "Basic English words",
+		"subcategory": "Действия и движение"
+	},
+	{
+		"text": "there",
+		"category": "Basic English words",
+		"subcategory": "Действия и движение"
+	},
+	{
+		"text": "together",
+		"category": "Basic English words",
+		"subcategory": "Действия и движение"
+	},
+	{
+		"text": "well",
+		"category": "Basic English words",
+		"subcategory": "Действия и движение"
+	},
+	{
+		"text": "almost",
+		"category": "Basic English words",
+		"subcategory": "Действия и движение"
+	},
+	{
+		"text": "enough",
+		"category": "Basic English words",
+		"subcategory": "Действия и движение"
+	},
+	{
+		"text": "even",
+		"category": "Basic English words",
+		"subcategory": "Действия и движение"
+	},
+	{
+		"text": "little",
+		"category": "Basic English words",
+		"subcategory": "Действия и движение"
+	},
+	{
+		"text": "much",
+		"category": "Basic English words",
+		"subcategory": "Действия и движение"
+	},
+	{
+		"text": "not",
+		"category": "Basic English words",
+		"subcategory": "Действия и движение"
+	},
+	{
+		"text": "only",
+		"category": "Basic English words",
+		"subcategory": "Действия и движение"
+	},
+	{
+		"text": "quite",
+		"category": "Basic English words",
+		"subcategory": "Действия и движение"
+	},
+	{
+		"text": "so",
+		"category": "Basic English words",
+		"subcategory": "Действия и движение"
+	},
+	{
+		"text": "very",
+		"category": "Basic English words",
+		"subcategory": "Действия и движение"
+	},
+	{
+		"text": "tomorrow",
+		"category": "Basic English words",
+		"subcategory": "Действия и движение"
+	},
+	{
+		"text": "yesterday",
+		"category": "Basic English words",
+		"subcategory": "Действия и движение"
+	},
+	{
+		"text": "north",
+		"category": "Basic English words",
+		"subcategory": "Действия и движение"
+	},
+	{
+		"text": "south",
+		"category": "Basic English words",
+		"subcategory": "Действия и движение"
+	},
+	{
+		"text": "east",
+		"category": "Basic English words",
+		"subcategory": "Действия и движение"
+	},
+	{
+		"text": "west",
+		"category": "Basic English words",
+		"subcategory": "Действия и движение"
+	},
+	{
+		"text": "please",
+		"category": "Basic English words",
+		"subcategory": "Действия и движение"
+	},
+	{
+		"text": "yes",
+		"category": "Basic English words",
+		"subcategory": "Действия и движение"
+	},
+	{
+		"text": "account",
+		"category": "Basic English words",
+		"subcategory": "Общие"
+	},
+	{
+		"text": "act",
+		"category": "Basic English words",
+		"subcategory": "Общие"
+	},
+	{
+		"text": "addition",
+		"category": "Basic English words",
+		"subcategory": "Общие"
+	},
+	{
+		"text": "adjust",
+		"category": "Basic English words",
+		"subcategory": "Общие"
+	},
+	{
+		"text": "advertisement",
+		"category": "Basic English words",
+		"subcategory": "Общие"
+	},
+	{
+		"text": "agreement",
+		"category": "Basic English words",
+		"subcategory": "Общие"
+	},
+	{
+		"text": "air",
+		"category": "Basic English words",
+		"subcategory": "Общие"
+	},
+	{
+		"text": "account",
+		"category": "Basic English words",
+		"subcategory": "Общие"
+	},
+	{
+		"text": "act",
+		"category": "Basic English words",
+		"subcategory": "Общие"
+	},
+	{
+		"text": "addition",
+		"category": "Basic English words",
+		"subcategory": "Общие"
+	},
+	{
+		"text": "adjust",
+		"category": "Basic English words",
+		"subcategory": "Общие"
+	},
+	{
+		"text": "advertisement",
+		"category": "Basic English words",
+		"subcategory": "Общие"
+	},
+	{
+		"text": "agreement",
+		"category": "Basic English words",
+		"subcategory": "Общие"
+	},
+	{
+		"text": "air",
+		"category": "Basic English words",
+		"subcategory": "Общие"
+	},
+	{
+		"text": "account",
+		"category": "Basic English words",
+		"subcategory": "Общие"
+	},
+	{
+		"text": "act",
+		"category": "Basic English words",
+		"subcategory": "Общие"
+	},
+	{
+		"text": "addition",
+		"category": "Basic English words",
+		"subcategory": "Общие"
+	},
+	{
+		"text": "adjust",
+		"category": "Basic English words",
+		"subcategory": "Общие"
+	},
+	{
+		"text": "advertisement",
+		"category": "Basic English words",
+		"subcategory": "Общие"
+	},
+	{
+		"text": "agreement",
+		"category": "Basic English words",
+		"subcategory": "Общие"
+	},
+	{
+		"text": "air",
+		"category": "Basic English words",
+		"subcategory": "Общие"
+	},
+	{
+		"text": "account",
+		"category": "Basic English words",
+		"subcategory": "Общие"
+	},
+	{
+		"text": "act",
+		"category": "Basic English words",
+		"subcategory": "Общие"
+	},
+	{
+		"text": "addition",
+		"category": "Basic English words",
+		"subcategory": "Общие"
+	},
+	{
+		"text": "adjust",
+		"category": "Basic English words",
+		"subcategory": "Общие"
+	},
+	{
+		"text": "advertisement",
+		"category": "Basic English words",
+		"subcategory": "Общие"
+	},
+	{
+		"text": "agreement",
+		"category": "Basic English words",
+		"subcategory": "Общие"
+	},
+	{
+		"text": "amount",
+		"category": "Basic English words",
+		"subcategory": "Общие"
+	},
+	{
+		"text": "amusement",
+		"category": "Basic English words",
+		"subcategory": "Общие"
+	},
+	{
+		"text": "animal",
+		"category": "Basic English words",
+		"subcategory": "Общие"
+	},
+	{
+		"text": "answer",
+		"category": "Basic English words",
+		"subcategory": "Общие"
+	},
+	{
+		"text": "apparatus",
+		"category": "Basic English words",
+		"subcategory": "Общие"
+	},
+	{
+		"text": "approval",
+		"category": "Basic English words",
+		"subcategory": "Общие"
+	},
+	{
+		"text": "argument",
+		"category": "Basic English words",
+		"subcategory": "Общие"
+	},
+	{
+		"text": "art",
+		"category": "Basic English words",
+		"subcategory": "Общие"
+	},
+	{
+		"text": "attack",
+		"category": "Basic English words",
+		"subcategory": "Общие"
+	},
+	{
+		"text": "attempt",
+		"category": "Basic English words",
+		"subcategory": "Общие"
+	},
+	{
+		"text": "attention",
+		"category": "Basic English words",
+		"subcategory": "Общие"
+	},
+	{
+		"text": "attraction",
+		"category": "Basic English words",
+		"subcategory": "Общие"
+	},
+	{
+		"text": "authority",
+		"category": "Basic English words",
+		"subcategory": "Общие"
+	},
+	{
+		"text": "back",
+		"category": "Basic English words",
+		"subcategory": "Общие"
+	},
+	{
+		"text": "balance",
+		"category": "Basic English words",
+		"subcategory": "Общие"
+	},
+	{
+		"text": "base",
+		"category": "Basic English words",
+		"subcategory": "Общие"
+	},
+	{
+		"text": "behavior",
+		"category": "Basic English words",
+		"subcategory": "Общие"
+	},
+	{
+		"text": "belief",
+		"category": "Basic English words",
+		"subcategory": "Общие"
+	},
+	{
+		"text": "birth",
+		"category": "Basic English words",
+		"subcategory": "Общие"
+	},
+	{
+		"text": "bit",
+		"category": "Basic English words",
+		"subcategory": "Общие"
+	},
+	{
+		"text": "bite",
+		"category": "Basic English words",
+		"subcategory": "Общие"
+	},
+	{
+		"text": "blood",
+		"category": "Basic English words",
+		"subcategory": "Общие"
+	},
+	{
+		"text": "blow",
+		"category": "Basic English words",
+		"subcategory": "Общие"
+	},
+	{
+		"text": "body",
+		"category": "Basic English words",
+		"subcategory": "Общие"
+	},
+	{
+		"text": "brass",
+		"category": "Basic English words",
+		"subcategory": "Общие"
+	},
+	{
+		"text": "bread",
+		"category": "Basic English words",
+		"subcategory": "Общие"
+	},
+	{
+		"text": "breath",
+		"category": "Basic English words",
+		"subcategory": "Общие"
+	},
+	{
+		"text": "brother",
+		"category": "Basic English words",
+		"subcategory": "Общие"
+	},
+	{
+		"text": "building",
+		"category": "Basic English words",
+		"subcategory": "Общие"
+	},
+	{
+		"text": "burn",
+		"category": "Basic English words",
+		"subcategory": "Общие"
+	},
+	{
+		"text": "burst",
+		"category": "Basic English words",
+		"subcategory": "Общие"
+	},
+	{
+		"text": "business",
+		"category": "Basic English words",
+		"subcategory": "Общие"
+	},
+	{
+		"text": "butter",
+		"category": "Basic English words",
+		"subcategory": "Общие"
+	},
+	{
+		"text": "canvas",
+		"category": "Basic English words",
+		"subcategory": "Общие"
+	},
+	{
+		"text": "care",
+		"category": "Basic English words",
+		"subcategory": "Общие"
+	},
+	{
+		"text": "cause",
+		"category": "Basic English words",
+		"subcategory": "Общие"
+	},
+	{
+		"text": "chalk",
+		"category": "Basic English words",
+		"subcategory": "Общие"
+	},
+	{
+		"text": "chance",
+		"category": "Basic English words",
+		"subcategory": "Общие"
+	},
+	{
+		"text": "change",
+		"category": "Basic English words",
+		"subcategory": "Общие"
+	},
+	{
+		"text": "cloth",
+		"category": "Basic English words",
+		"subcategory": "Общие"
+	},
+	{
+		"text": "coal",
+		"category": "Basic English words",
+		"subcategory": "Общие"
+	},
+	{
+		"text": "color",
+		"category": "Basic English words",
+		"subcategory": "Общие"
+	},
+	{
+		"text": "comfort",
+		"category": "Basic English words",
+		"subcategory": "Общие"
+	},
+	{
+		"text": "committee",
+		"category": "Basic English words",
+		"subcategory": "Общие"
+	},
+	{
+		"text": "company",
+		"category": "Basic English words",
+		"subcategory": "Общие"
+	},
+	{
+		"text": "comparison",
+		"category": "Basic English words",
+		"subcategory": "Общие"
+	},
+	{
+		"text": "competition",
+		"category": "Basic English words",
+		"subcategory": "Общие"
+	},
+	{
+		"text": "condition",
+		"category": "Basic English words",
+		"subcategory": "Общие"
+	},
+	{
+		"text": "connection",
+		"category": "Basic English words",
+		"subcategory": "Общие"
+	},
+	{
+		"text": "control",
+		"category": "Basic English words",
+		"subcategory": "Общие"
+	},
+	{
+		"text": "cook",
+		"category": "Basic English words",
+		"subcategory": "Общие"
+	},
+	{
+		"text": "copper",
+		"category": "Basic English words",
+		"subcategory": "Общие"
+	},
+	{
+		"text": "copy",
+		"category": "Basic English words",
+		"subcategory": "Общие"
+	},
+	{
+		"text": "cork",
+		"category": "Basic English words",
+		"subcategory": "Общие"
+	},
+	{
+		"text": "cotton",
+		"category": "Basic English words",
+		"subcategory": "Общие"
+	},
+	{
+		"text": "cough",
+		"category": "Basic English words",
+		"subcategory": "Общие"
+	},
+	{
+		"text": "country",
+		"category": "Basic English words",
+		"subcategory": "Общие"
+	},
+	{
+		"text": "cover",
+		"category": "Basic English words",
+		"subcategory": "Общие"
+	},
+	{
+		"text": "crack",
+		"category": "Basic English words",
+		"subcategory": "Общие"
+	},
+	{
+		"text": "credit",
+		"category": "Basic English words",
+		"subcategory": "Общие"
+	},
+	{
+		"text": "crime",
+		"category": "Basic English words",
+		"subcategory": "Общие"
+	},
+	{
+		"text": "crush",
+		"category": "Basic English words",
+		"subcategory": "Общие"
+	},
+	{
+		"text": "cry",
+		"category": "Basic English words",
+		"subcategory": "Общие"
+	},
+	{
+		"text": "current",
+		"category": "Basic English words",
+		"subcategory": "Общие"
+	},
+	{
+		"text": "curve",
+		"category": "Basic English words",
+		"subcategory": "Общие"
+	},
+	{
+		"text": "damage",
+		"category": "Basic English words",
+		"subcategory": "Общие"
+	},
+	{
+		"text": "danger",
+		"category": "Basic English words",
+		"subcategory": "Общие"
+	},
+	{
+		"text": "daughter",
+		"category": "Basic English words",
+		"subcategory": "Общие"
+	},
+	{
+		"text": "day",
+		"category": "Basic English words",
+		"subcategory": "Общие"
+	},
+	{
+		"text": "death",
+		"category": "Basic English words",
+		"subcategory": "Общие"
+	},
+	{
+		"text": "debt",
+		"category": "Basic English words",
+		"subcategory": "Общие"
+	},
+	{
+		"text": "decision",
+		"category": "Basic English words",
+		"subcategory": "Общие"
+	},
+	{
+		"text": "degree",
+		"category": "Basic English words",
+		"subcategory": "Общие"
+	},
+	{
+		"text": "design",
+		"category": "Basic English words",
+		"subcategory": "Общие"
+	},
+	{
+		"text": "desire",
+		"category": "Basic English words",
+		"subcategory": "Общие"
+	},
+	{
+		"text": "destruction",
+		"category": "Basic English words",
+		"subcategory": "Общие"
+	},
+	{
+		"text": "detail",
+		"category": "Basic English words",
+		"subcategory": "Общие"
+	},
+	{
+		"text": "development",
+		"category": "Basic English words",
+		"subcategory": "Общие"
+	},
+	{
+		"text": "digestion",
+		"category": "Basic English words",
+		"subcategory": "Общие"
+	},
+	{
+		"text": "direction",
+		"category": "Basic English words",
+		"subcategory": "Общие"
+	},
+	{
+		"text": "discovery",
+		"category": "Basic English words",
+		"subcategory": "Общие"
+	},
+	{
+		"text": "discussion",
+		"category": "Basic English words",
+		"subcategory": "Общие"
+	},
+	{
+		"text": "disease",
+		"category": "Basic English words",
+		"subcategory": "Общие"
+	},
+	{
+		"text": "disgust",
+		"category": "Basic English words",
+		"subcategory": "Общие"
+	},
+	{
+		"text": "distance",
+		"category": "Basic English words",
+		"subcategory": "Общие"
+	},
+	{
+		"text": "distribution",
+		"category": "Basic English words",
+		"subcategory": "Общие"
+	},
+	{
+		"text": "division",
+		"category": "Basic English words",
+		"subcategory": "Общие"
+	},
+	{
+		"text": "doubt",
+		"category": "Basic English words",
+		"subcategory": "Общие"
+	},
+	{
+		"text": "drink",
+		"category": "Basic English words",
+		"subcategory": "Общие"
+	},
+	{
+		"text": "driving",
+		"category": "Basic English words",
+		"subcategory": "Общие"
+	},
+	{
+		"text": "dust",
+		"category": "Basic English words",
+		"subcategory": "Общие"
+	},
+	{
+		"text": "earth",
+		"category": "Basic English words",
+		"subcategory": "Общие"
+	},
+	{
+		"text": "edge",
+		"category": "Basic English words",
+		"subcategory": "Общие"
+	},
+	{
+		"text": "education",
+		"category": "Basic English words",
+		"subcategory": "Общие"
+	},
+	{
+		"text": "effect",
+		"category": "Basic English words",
+		"subcategory": "Общие"
+	},
+	{
+		"text": "end",
+		"category": "Basic English words",
+		"subcategory": "Общие"
+	},
+	{
+		"text": "error",
+		"category": "Basic English words",
+		"subcategory": "Общие"
+	},
+	{
+		"text": "event",
+		"category": "Basic English words",
+		"subcategory": "Общие"
+	},
+	{
+		"text": "example",
+		"category": "Basic English words",
+		"subcategory": "Общие"
+	},
+	{
+		"text": "exchange",
+		"category": "Basic English words",
+		"subcategory": "Общие"
+	},
+	{
+		"text": "existence",
+		"category": "Basic English words",
+		"subcategory": "Общие"
+	},
+	{
+		"text": "expansion",
+		"category": "Basic English words",
+		"subcategory": "Общие"
+	},
+	{
+		"text": "experience",
+		"category": "Basic English words",
+		"subcategory": "Общие"
+	},
+	{
+		"text": "expert",
+		"category": "Basic English words",
+		"subcategory": "Общие"
+	},
+	{
+		"text": "fact",
+		"category": "Basic English words",
+		"subcategory": "Общие"
+	},
+	{
+		"text": "fall",
+		"category": "Basic English words",
+		"subcategory": "Общие"
+	},
+	{
+		"text": "family",
+		"category": "Basic English words",
+		"subcategory": "Общие"
+	},
+	{
+		"text": "father",
+		"category": "Basic English words",
+		"subcategory": "Общие"
+	},
+	{
+		"text": "fear",
+		"category": "Basic English words",
+		"subcategory": "Общие"
+	},
+	{
+		"text": "feeling",
+		"category": "Basic English words",
+		"subcategory": "Общие"
+	},
+	{
+		"text": "fiction",
+		"category": "Basic English words",
+		"subcategory": "Общие"
+	},
+	{
+		"text": "field",
+		"category": "Basic English words",
+		"subcategory": "Общие"
+	},
+	{
+		"text": "fight",
+		"category": "Basic English words",
+		"subcategory": "Общие"
+	},
+	{
+		"text": "fire -огонь",
+		"category": "Basic English words",
+		"subcategory": "Общие"
+	},
+	{
+		"text": "flame",
+		"category": "Basic English words",
+		"subcategory": "Общие"
+	},
+	{
+		"text": "flight",
+		"category": "Basic English words",
+		"subcategory": "Общие"
+	},
+	{
+		"text": "flower",
+		"category": "Basic English words",
+		"subcategory": "Общие"
+	},
+	{
+		"text": "fold",
+		"category": "Basic English words",
+		"subcategory": "Общие"
+	},
+	{
+		"text": "food",
+		"category": "Basic English words",
+		"subcategory": "Общие"
+	},
+	{
+		"text": "force",
+		"category": "Basic English words",
+		"subcategory": "Общие"
+	},
+	{
+		"text": "form",
+		"category": "Basic English words",
+		"subcategory": "Общие"
+	},
+	{
+		"text": "friend",
+		"category": "Basic English words",
+		"subcategory": "Общие"
+	},
+	{
+		"text": "front",
+		"category": "Basic English words",
+		"subcategory": "Общие"
+	},
+	{
+		"text": "fruit",
+		"category": "Basic English words",
+		"subcategory": "Общие"
+	},
+	{
+		"text": "glass",
+		"category": "Basic English words",
+		"subcategory": "Общие"
+	},
+	{
+		"text": "gold",
+		"category": "Basic English words",
+		"subcategory": "Общие"
+	},
+	{
+		"text": "government",
+		"category": "Basic English words",
+		"subcategory": "Общие"
+	},
+	{
+		"text": "grain",
+		"category": "Basic English words",
+		"subcategory": "Общие"
+	},
+	{
+		"text": "grass",
+		"category": "Basic English words",
+		"subcategory": "Общие"
+	},
+	{
+		"text": "grip",
+		"category": "Basic English words",
+		"subcategory": "Общие"
+	},
+	{
+		"text": "group",
+		"category": "Basic English words",
+		"subcategory": "Общие"
+	},
+	{
+		"text": "growth",
+		"category": "Basic English words",
+		"subcategory": "Общие"
+	},
+	{
+		"text": "guide",
+		"category": "Basic English words",
+		"subcategory": "Общие"
+	},
+	{
+		"text": "harbor",
+		"category": "Basic English words",
+		"subcategory": "Общие"
+	},
+	{
+		"text": "harmony",
+		"category": "Basic English words",
+		"subcategory": "Общие"
+	},
+	{
+		"text": "hate",
+		"category": "Basic English words",
+		"subcategory": "Общие"
+	},
+	{
+		"text": "hearing",
+		"category": "Basic English words",
+		"subcategory": "Общие"
+	},
+	{
+		"text": "heat",
+		"category": "Basic English words",
+		"subcategory": "Общие"
+	},
+	{
+		"text": "help",
+		"category": "Basic English words",
+		"subcategory": "Общие"
+	},
+	{
+		"text": "history",
+		"category": "Basic English words",
+		"subcategory": "Общие"
+	},
+	{
+		"text": "hole",
+		"category": "Basic English words",
+		"subcategory": "Общие"
+	},
+	{
+		"text": "hope",
+		"category": "Basic English words",
+		"subcategory": "Общие"
+	},
+	{
+		"text": "hour",
+		"category": "Basic English words",
+		"subcategory": "Общие"
+	},
+	{
+		"text": "humor",
+		"category": "Basic English words",
+		"subcategory": "Общие"
+	},
+	{
+		"text": "ice",
+		"category": "Basic English words",
+		"subcategory": "Общие"
+	},
+	{
+		"text": "idea",
+		"category": "Basic English words",
+		"subcategory": "Общие"
+	},
+	{
+		"text": "impulse",
+		"category": "Basic English words",
+		"subcategory": "Общие"
+	},
+	{
+		"text": "increase",
+		"category": "Basic English words",
+		"subcategory": "Общие"
+	},
+	{
+		"text": "industry",
+		"category": "Basic English words",
+		"subcategory": "Общие"
+	},
+	{
+		"text": "ink",
+		"category": "Basic English words",
+		"subcategory": "Общие"
+	},
+	{
+		"text": "insect",
+		"category": "Basic English words",
+		"subcategory": "Общие"
+	},
+	{
+		"text": "instrument",
+		"category": "Basic English words",
+		"subcategory": "Общие"
+	},
+	{
+		"text": "insurance",
+		"category": "Basic English words",
+		"subcategory": "Общие"
+	},
+	{
+		"text": "interest",
+		"category": "Basic English words",
+		"subcategory": "Общие"
+	},
+	{
+		"text": "invention",
+		"category": "Basic English words",
+		"subcategory": "Общие"
+	},
+	{
+		"text": "iron",
+		"category": "Basic English words",
+		"subcategory": "Общие"
+	},
+	{
+		"text": "jelly",
+		"category": "Basic English words",
+		"subcategory": "Общие"
+	},
+	{
+		"text": "join",
+		"category": "Basic English words",
+		"subcategory": "Общие"
+	},
+	{
+		"text": "journey",
+		"category": "Basic English words",
+		"subcategory": "Общие"
+	},
+	{
+		"text": "judge",
+		"category": "Basic English words",
+		"subcategory": "Общие"
+	},
+	{
+		"text": "jump",
+		"category": "Basic English words",
+		"subcategory": "Общие"
+	},
+	{
+		"text": "kick",
+		"category": "Basic English words",
+		"subcategory": "Общие"
+	},
+	{
+		"text": "kiss",
+		"category": "Basic English words",
+		"subcategory": "Общие"
+	},
+	{
+		"text": "knowledge",
+		"category": "Basic English words",
+		"subcategory": "Общие"
+	},
+	{
+		"text": "land",
+		"category": "Basic English words",
+		"subcategory": "Общие"
+	},
+	{
+		"text": "language",
+		"category": "Basic English words",
+		"subcategory": "Общие"
+	},
+	{
+		"text": "laugh",
+		"category": "Basic English words",
+		"subcategory": "Общие"
+	},
+	{
+		"text": "law",
+		"category": "Basic English words",
+		"subcategory": "Общие"
+	},
+	{
+		"text": "lead",
+		"category": "Basic English words",
+		"subcategory": "Общие"
+	},
+	{
+		"text": "learning",
+		"category": "Basic English words",
+		"subcategory": "Общие"
+	},
+	{
+		"text": "leather",
+		"category": "Basic English words",
+		"subcategory": "Общие"
+	},
+	{
+		"text": "letter",
+		"category": "Basic English words",
+		"subcategory": "Общие"
+	},
+	{
+		"text": "level",
+		"category": "Basic English words",
+		"subcategory": "Общие"
+	},
+	{
+		"text": "lift",
+		"category": "Basic English words",
+		"subcategory": "Общие"
+	},
+	{
+		"text": "light",
+		"category": "Basic English words",
+		"subcategory": "Общие"
+	},
+	{
+		"text": "limit",
+		"category": "Basic English words",
+		"subcategory": "Общие"
+	},
+	{
+		"text": "linen",
+		"category": "Basic English words",
+		"subcategory": "Общие"
+	},
+	{
+		"text": "liquid",
+		"category": "Basic English words",
+		"subcategory": "Общие"
+	},
+	{
+		"text": "list",
+		"category": "Basic English words",
+		"subcategory": "Общие"
+	},
+	{
+		"text": "loss",
+		"category": "Basic English words",
+		"subcategory": "Общие"
+	},
+	{
+		"text": "love",
+		"category": "Basic English words",
+		"subcategory": "Общие"
+	},
+	{
+		"text": "machine",
+		"category": "Basic English words",
+		"subcategory": "Общие"
+	},
+	{
+		"text": "man",
+		"category": "Basic English words",
+		"subcategory": "Общие"
+	},
+	{
+		"text": "mark",
+		"category": "Basic English words",
+		"subcategory": "Общие"
+	},
+	{
+		"text": "market",
+		"category": "Basic English words",
+		"subcategory": "Общие"
+	},
+	{
+		"text": "mass",
+		"category": "Basic English words",
+		"subcategory": "Общие"
+	},
+	{
+		"text": "meal",
+		"category": "Basic English words",
+		"subcategory": "Общие"
+	},
+	{
+		"text": "measure",
+		"category": "Basic English words",
+		"subcategory": "Общие"
+	},
+	{
+		"text": "meat",
+		"category": "Basic English words",
+		"subcategory": "Общие"
+	},
+	{
+		"text": "meeting",
+		"category": "Basic English words",
+		"subcategory": "Общие"
+	},
+	{
+		"text": "memory",
+		"category": "Basic English words",
+		"subcategory": "Общие"
+	},
+	{
+		"text": "metal",
+		"category": "Basic English words",
+		"subcategory": "Общие"
+	},
+	{
+		"text": "middle",
+		"category": "Basic English words",
+		"subcategory": "Общие"
+	},
+	{
+		"text": "milk",
+		"category": "Basic English words",
+		"subcategory": "Общие"
+	},
+	{
+		"text": "mind",
+		"category": "Basic English words",
+		"subcategory": "Общие"
+	},
+	{
+		"text": "mine",
+		"category": "Basic English words",
+		"subcategory": "Общие"
+	},
+	{
+		"text": "minute",
+		"category": "Basic English words",
+		"subcategory": "Общие"
+	},
+	{
+		"text": "mist",
+		"category": "Basic English words",
+		"subcategory": "Общие"
+	},
+	{
+		"text": "money",
+		"category": "Basic English words",
+		"subcategory": "Общие"
+	},
+	{
+		"text": "month",
+		"category": "Basic English words",
+		"subcategory": "Общие"
+	},
+	{
+		"text": "morning",
+		"category": "Basic English words",
+		"subcategory": "Общие"
+	},
+	{
+		"text": "mother",
+		"category": "Basic English words",
+		"subcategory": "Общие"
+	},
+	{
+		"text": "motion",
+		"category": "Basic English words",
+		"subcategory": "Общие"
+	},
+	{
+		"text": "mountain",
+		"category": "Basic English words",
+		"subcategory": "Общие"
+	},
+	{
+		"text": "move",
+		"category": "Basic English words",
+		"subcategory": "Общие"
+	},
+	{
+		"text": "music",
+		"category": "Basic English words",
+		"subcategory": "Общие"
+	},
+	{
+		"text": "name",
+		"category": "Basic English words",
+		"subcategory": "Общие"
+	},
+	{
+		"text": "nation",
+		"category": "Basic English words",
+		"subcategory": "Общие"
+	},
+	{
+		"text": "need",
+		"category": "Basic English words",
+		"subcategory": "Общие"
+	},
+	{
+		"text": "news",
+		"category": "Basic English words",
+		"subcategory": "Общие"
+	},
+	{
+		"text": "night",
+		"category": "Basic English words",
+		"subcategory": "Общие"
+	},
+	{
+		"text": "noise",
+		"category": "Basic English words",
+		"subcategory": "Общие"
+	},
+	{
+		"text": "note",
+		"category": "Basic English words",
+		"subcategory": "Общие"
+	},
+	{
+		"text": "number",
+		"category": "Basic English words",
+		"subcategory": "Общие"
+	},
+	{
+		"text": "observation",
+		"category": "Basic English words",
+		"subcategory": "Общие"
+	},
+	{
+		"text": "offer",
+		"category": "Basic English words",
+		"subcategory": "Общие"
+	},
+	{
+		"text": "oil",
+		"category": "Basic English words",
+		"subcategory": "Общие"
+	},
+	{
+		"text": "operation",
+		"category": "Basic English words",
+		"subcategory": "Общие"
+	},
+	{
+		"text": "opinion",
+		"category": "Basic English words",
+		"subcategory": "Общие"
+	},
+	{
+		"text": "order",
+		"category": "Basic English words",
+		"subcategory": "Общие"
+	},
+	{
+		"text": "organization",
+		"category": "Basic English words",
+		"subcategory": "Общие"
+	},
+	{
+		"text": "ornament",
+		"category": "Basic English words",
+		"subcategory": "Общие"
+	},
+	{
+		"text": "owner",
+		"category": "Basic English words",
+		"subcategory": "Общие"
+	},
+	{
+		"text": "page",
+		"category": "Basic English words",
+		"subcategory": "Общие"
+	},
+	{
+		"text": "pain",
+		"category": "Basic English words",
+		"subcategory": "Общие"
+	},
+	{
+		"text": "paint",
+		"category": "Basic English words",
+		"subcategory": "Общие"
+	},
+	{
+		"text": "paper",
+		"category": "Basic English words",
+		"subcategory": "Общие"
+	},
+	{
+		"text": "part",
+		"category": "Basic English words",
+		"subcategory": "Общие"
+	},
+	{
+		"text": "paste",
+		"category": "Basic English words",
+		"subcategory": "Общие"
+	},
+	{
+		"text": "payment",
+		"category": "Basic English words",
+		"subcategory": "Общие"
+	},
+	{
+		"text": "peace",
+		"category": "Basic English words",
+		"subcategory": "Общие"
+	},
+	{
+		"text": "person",
+		"category": "Basic English words",
+		"subcategory": "Общие"
+	},
+	{
+		"text": "place",
+		"category": "Basic English words",
+		"subcategory": "Общие"
+	},
+	{
+		"text": "plant",
+		"category": "Basic English words",
+		"subcategory": "Общие"
+	},
+	{
+		"text": "play",
+		"category": "Basic English words",
+		"subcategory": "Общие"
+	},
+	{
+		"text": "pleasure",
+		"category": "Basic English words",
+		"subcategory": "Общие"
+	},
+	{
+		"text": "point",
+		"category": "Basic English words",
+		"subcategory": "Общие"
+	},
+	{
+		"text": "poison",
+		"category": "Basic English words",
+		"subcategory": "Общие"
+	},
+	{
+		"text": "polish",
+		"category": "Basic English words",
+		"subcategory": "Общие"
+	},
+	{
+		"text": "porter",
+		"category": "Basic English words",
+		"subcategory": "Общие"
+	},
+	{
+		"text": "position",
+		"category": "Basic English words",
+		"subcategory": "Общие"
+	},
+	{
+		"text": "powder",
+		"category": "Basic English words",
+		"subcategory": "Общие"
+	},
+	{
+		"text": "power",
+		"category": "Basic English words",
+		"subcategory": "Общие"
+	},
+	{
+		"text": "price",
+		"category": "Basic English words",
+		"subcategory": "Общие"
+	},
+	{
+		"text": "print",
+		"category": "Basic English words",
+		"subcategory": "Общие"
+	},
+	{
+		"text": "process",
+		"category": "Basic English words",
+		"subcategory": "Общие"
+	},
+	{
+		"text": "produce",
+		"category": "Basic English words",
+		"subcategory": "Общие"
+	},
+	{
+		"text": "profit",
+		"category": "Basic English words",
+		"subcategory": "Общие"
+	},
+	{
+		"text": "property",
+		"category": "Basic English words",
+		"subcategory": "Общие"
+	},
+	{
+		"text": "prose",
+		"category": "Basic English words",
+		"subcategory": "Общие"
+	},
+	{
+		"text": "protest",
+		"category": "Basic English words",
+		"subcategory": "Общие"
+	},
+	{
+		"text": "pull",
+		"category": "Basic English words",
+		"subcategory": "Общие"
+	},
+	{
+		"text": "punishment",
+		"category": "Basic English words",
+		"subcategory": "Общие"
+	},
+	{
+		"text": "purpose",
+		"category": "Basic English words",
+		"subcategory": "Общие"
+	},
+	{
+		"text": "push",
+		"category": "Basic English words",
+		"subcategory": "Общие"
+	},
+	{
+		"text": "quality",
+		"category": "Basic English words",
+		"subcategory": "Общие"
+	},
+	{
+		"text": "question",
+		"category": "Basic English words",
+		"subcategory": "Общие"
+	},
+	{
+		"text": "rain",
+		"category": "Basic English words",
+		"subcategory": "Общие"
+	},
+	{
+		"text": "range",
+		"category": "Basic English words",
+		"subcategory": "Общие"
+	},
+	{
+		"text": "rate",
+		"category": "Basic English words",
+		"subcategory": "Общие"
+	},
+	{
+		"text": "ray",
+		"category": "Basic English words",
+		"subcategory": "Общие"
+	},
+	{
+		"text": "reaction",
+		"category": "Basic English words",
+		"subcategory": "Общие"
+	},
+	{
+		"text": "reading",
+		"category": "Basic English words",
+		"subcategory": "Общие"
+	},
+	{
+		"text": "reason",
+		"category": "Basic English words",
+		"subcategory": "Общие"
+	},
+	{
+		"text": "record",
+		"category": "Basic English words",
+		"subcategory": "Общие"
+	},
+	{
+		"text": "regret",
+		"category": "Basic English words",
+		"subcategory": "Общие"
+	},
+	{
+		"text": "relation",
+		"category": "Basic English words",
+		"subcategory": "Общие"
+	},
+	{
+		"text": "religion",
+		"category": "Basic English words",
+		"subcategory": "Общие"
+	},
+	{
+		"text": "representative",
+		"category": "Basic English words",
+		"subcategory": "Общие"
+	},
+	{
+		"text": "request",
+		"category": "Basic English words",
+		"subcategory": "Общие"
+	},
+	{
+		"text": "respect",
+		"category": "Basic English words",
+		"subcategory": "Общие"
+	},
+	{
+		"text": "rest",
+		"category": "Basic English words",
+		"subcategory": "Общие"
+	},
+	{
+		"text": "reward",
+		"category": "Basic English words",
+		"subcategory": "Общие"
+	},
+	{
+		"text": "rhythm",
+		"category": "Basic English words",
+		"subcategory": "Общие"
+	},
+	{
+		"text": "rice",
+		"category": "Basic English words",
+		"subcategory": "Общие"
+	},
+	{
+		"text": "river",
+		"category": "Basic English words",
+		"subcategory": "Общие"
+	},
+	{
+		"text": "road",
+		"category": "Basic English words",
+		"subcategory": "Общие"
+	},
+	{
+		"text": "roll",
+		"category": "Basic English words",
+		"subcategory": "Общие"
+	},
+	{
+		"text": "room",
+		"category": "Basic English words",
+		"subcategory": "Общие"
+	},
+	{
+		"text": "rub",
+		"category": "Basic English words",
+		"subcategory": "Общие"
+	},
+	{
+		"text": "rule",
+		"category": "Basic English words",
+		"subcategory": "Общие"
+	},
+	{
+		"text": "run",
+		"category": "Basic English words",
+		"subcategory": "Общие"
+	},
+	{
+		"text": "salt",
+		"category": "Basic English words",
+		"subcategory": "Общие"
+	},
+	{
+		"text": "sand",
+		"category": "Basic English words",
+		"subcategory": "Общие"
+	},
+	{
+		"text": "scale",
+		"category": "Basic English words",
+		"subcategory": "Общие"
+	},
+	{
+		"text": "science",
+		"category": "Basic English words",
+		"subcategory": "Общие"
+	},
+	{
+		"text": "sea",
+		"category": "Basic English words",
+		"subcategory": "Общие"
+	},
+	{
+		"text": "seat",
+		"category": "Basic English words",
+		"subcategory": "Общие"
+	},
+	{
+		"text": "secretary",
+		"category": "Basic English words",
+		"subcategory": "Общие"
+	},
+	{
+		"text": "selection",
+		"category": "Basic English words",
+		"subcategory": "Общие"
+	},
+	{
+		"text": "self",
+		"category": "Basic English words",
+		"subcategory": "Общие"
+	},
+	{
+		"text": "sense",
+		"category": "Basic English words",
+		"subcategory": "Общие"
+	},
+	{
+		"text": "servant",
+		"category": "Basic English words",
+		"subcategory": "Общие"
+	},
+	{
+		"text": "sex",
+		"category": "Basic English words",
+		"subcategory": "Общие"
+	},
+	{
+		"text": "shade",
+		"category": "Basic English words",
+		"subcategory": "Общие"
+	},
+	{
+		"text": "shake",
+		"category": "Basic English words",
+		"subcategory": "Общие"
+	},
+	{
+		"text": "shame",
+		"category": "Basic English words",
+		"subcategory": "Общие"
+	},
+	{
+		"text": "shock",
+		"category": "Basic English words",
+		"subcategory": "Общие"
+	},
+	{
+		"text": "side",
+		"category": "Basic English words",
+		"subcategory": "Общие"
+	},
+	{
+		"text": "sign",
+		"category": "Basic English words",
+		"subcategory": "Общие"
+	},
+	{
+		"text": "silk",
+		"category": "Basic English words",
+		"subcategory": "Общие"
+	},
+	{
+		"text": "silver",
+		"category": "Basic English words",
+		"subcategory": "Общие"
+	},
+	{
+		"text": "sister",
+		"category": "Basic English words",
+		"subcategory": "Общие"
+	},
+	{
+		"text": "size",
+		"category": "Basic English words",
+		"subcategory": "Общие"
+	},
+	{
+		"text": "sky",
+		"category": "Basic English words",
+		"subcategory": "Общие"
+	},
+	{
+		"text": "sleep",
+		"category": "Basic English words",
+		"subcategory": "Общие"
+	},
+	{
+		"text": "slip",
+		"category": "Basic English words",
+		"subcategory": "Общие"
+	},
+	{
+		"text": "slope",
+		"category": "Basic English words",
+		"subcategory": "Общие"
+	},
+	{
+		"text": "smash",
+		"category": "Basic English words",
+		"subcategory": "Общие"
+	},
+	{
+		"text": "smell",
+		"category": "Basic English words",
+		"subcategory": "Общие"
+	},
+	{
+		"text": "smile",
+		"category": "Basic English words",
+		"subcategory": "Общие"
+	},
+	{
+		"text": "smoke",
+		"category": "Basic English words",
+		"subcategory": "Общие"
+	},
+	{
+		"text": "sneeze",
+		"category": "Basic English words",
+		"subcategory": "Общие"
+	},
+	{
+		"text": "snow",
+		"category": "Basic English words",
+		"subcategory": "Общие"
+	},
+	{
+		"text": "soap",
+		"category": "Basic English words",
+		"subcategory": "Общие"
+	},
+	{
+		"text": "society",
+		"category": "Basic English words",
+		"subcategory": "Общие"
+	},
+	{
+		"text": "son",
+		"category": "Basic English words",
+		"subcategory": "Общие"
+	},
+	{
+		"text": "song",
+		"category": "Basic English words",
+		"subcategory": "Общие"
+	},
+	{
+		"text": "sort",
+		"category": "Basic English words",
+		"subcategory": "Общие"
+	},
+	{
+		"text": "sound",
+		"category": "Basic English words",
+		"subcategory": "Общие"
+	},
+	{
+		"text": "soup",
+		"category": "Basic English words",
+		"subcategory": "Общие"
+	},
+	{
+		"text": "space",
+		"category": "Basic English words",
+		"subcategory": "Общие"
+	},
+	{
+		"text": "stage",
+		"category": "Basic English words",
+		"subcategory": "Общие"
+	},
+	{
+		"text": "start",
+		"category": "Basic English words",
+		"subcategory": "Общие"
+	},
+	{
+		"text": "statement",
+		"category": "Basic English words",
+		"subcategory": "Общие"
+	},
+	{
+		"text": "steam",
+		"category": "Basic English words",
+		"subcategory": "Общие"
+	},
+	{
+		"text": "steel",
+		"category": "Basic English words",
+		"subcategory": "Общие"
+	},
+	{
+		"text": "step",
+		"category": "Basic English words",
+		"subcategory": "Общие"
+	},
+	{
+		"text": "stitch",
+		"category": "Basic English words",
+		"subcategory": "Общие"
+	},
+	{
+		"text": "stone",
+		"category": "Basic English words",
+		"subcategory": "Общие"
+	},
+	{
+		"text": "stop",
+		"category": "Basic English words",
+		"subcategory": "Общие"
+	},
+	{
+		"text": "story",
+		"category": "Basic English words",
+		"subcategory": "Общие"
+	},
+	{
+		"text": "stretch",
+		"category": "Basic English words",
+		"subcategory": "Общие"
+	},
+	{
+		"text": "structure",
+		"category": "Basic English words",
+		"subcategory": "Общие"
+	},
+	{
+		"text": "substance",
+		"category": "Basic English words",
+		"subcategory": "Общие"
+	},
+	{
+		"text": "sugar",
+		"category": "Basic English words",
+		"subcategory": "Общие"
+	},
+	{
+		"text": "suggestion",
+		"category": "Basic English words",
+		"subcategory": "Общие"
+	},
+	{
+		"text": "summer",
+		"category": "Basic English words",
+		"subcategory": "Общие"
+	},
+	{
+		"text": "support",
+		"category": "Basic English words",
+		"subcategory": "Общие"
+	},
+	{
+		"text": "surprise",
+		"category": "Basic English words",
+		"subcategory": "Общие"
+	},
+	{
+		"text": "swim",
+		"category": "Basic English words",
+		"subcategory": "Общие"
+	},
+	{
+		"text": "system",
+		"category": "Basic English words",
+		"subcategory": "Общие"
+	},
+	{
+		"text": "talk",
+		"category": "Basic English words",
+		"subcategory": "Общие"
+	},
+	{
+		"text": "taste",
+		"category": "Basic English words",
+		"subcategory": "Общие"
+	},
+	{
+		"text": "tax",
+		"category": "Basic English words",
+		"subcategory": "Общие"
+	},
+	{
+		"text": "teaching",
+		"category": "Basic English words",
+		"subcategory": "Общие"
+	},
+	{
+		"text": "tendency",
+		"category": "Basic English words",
+		"subcategory": "Общие"
+	},
+	{
+		"text": "test",
+		"category": "Basic English words",
+		"subcategory": "Общие"
+	},
+	{
+		"text": "theory",
+		"category": "Basic English words",
+		"subcategory": "Общие"
+	},
+	{
+		"text": "thing",
+		"category": "Basic English words",
+		"subcategory": "Общие"
+	},
+	{
+		"text": "thought",
+		"category": "Basic English words",
+		"subcategory": "Общие"
+	},
+	{
+		"text": "thunder",
+		"category": "Basic English words",
+		"subcategory": "Общие"
+	},
+	{
+		"text": "time",
+		"category": "Basic English words",
+		"subcategory": "Общие"
+	},
+	{
+		"text": "tin",
+		"category": "Basic English words",
+		"subcategory": "Общие"
+	},
+	{
+		"text": "top",
+		"category": "Basic English words",
+		"subcategory": "Общие"
+	},
+	{
+		"text": "touch",
+		"category": "Basic English words",
+		"subcategory": "Общие"
+	},
+	{
+		"text": "trade",
+		"category": "Basic English words",
+		"subcategory": "Общие"
+	},
+	{
+		"text": "transport ",
+		"category": "Basic English words",
+		"subcategory": "Общие"
+	},
+	{
+		"text": "trick",
+		"category": "Basic English words",
+		"subcategory": "Общие"
+	},
+	{
+		"text": "trouble",
+		"category": "Basic English words",
+		"subcategory": "Общие"
+	},
+	{
+		"text": "turn",
+		"category": "Basic English words",
+		"subcategory": "Общие"
+	},
+	{
+		"text": "twist",
+		"category": "Basic English words",
+		"subcategory": "Общие"
+	},
+	{
+		"text": "unit",
+		"category": "Basic English words",
+		"subcategory": "Общие"
+	},
+	{
+		"text": "use",
+		"category": "Basic English words",
+		"subcategory": "Общие"
+	},
+	{
+		"text": "value",
+		"category": "Basic English words",
+		"subcategory": "Общие"
+	},
+	{
+		"text": "verse",
+		"category": "Basic English words",
+		"subcategory": "Общие"
+	},
+	{
+		"text": "vessel",
+		"category": "Basic English words",
+		"subcategory": "Общие"
+	},
+	{
+		"text": "view",
+		"category": "Basic English words",
+		"subcategory": "Общие"
+	},
+	{
+		"text": "voice",
+		"category": "Basic English words",
+		"subcategory": "Общие"
+	},
+	{
+		"text": "war",
+		"category": "Basic English words",
+		"subcategory": "Общие"
+	},
+	{
+		"text": "wash",
+		"category": "Basic English words",
+		"subcategory": "Общие"
+	},
+	{
+		"text": "waste",
+		"category": "Basic English words",
+		"subcategory": "Общие"
+	},
+	{
+		"text": "water",
+		"category": "Basic English words",
+		"subcategory": "Общие"
+	},
+	{
+		"text": "wave",
+		"category": "Basic English words",
+		"subcategory": "Общие"
+	},
+	{
+		"text": "wax",
+		"category": "Basic English words",
+		"subcategory": "Общие"
+	},
+	{
+		"text": "weather",
+		"category": "Basic English words",
+		"subcategory": "Общие"
+	},
+	{
+		"text": "week",
+		"category": "Basic English words",
+		"subcategory": "Общие"
+	},
+	{
+		"text": "weight",
+		"category": "Basic English words",
+		"subcategory": "Общие"
+	},
+	{
+		"text": "wind",
+		"category": "Basic English words",
+		"subcategory": "Общие"
+	},
+	{
+		"text": "wine",
+		"category": "Basic English words",
+		"subcategory": "Общие"
+	},
+	{
+		"text": "winter",
+		"category": "Basic English words",
+		"subcategory": "Общие"
+	},
+	{
+		"text": "woman",
+		"category": "Basic English words",
+		"subcategory": "Общие"
+	},
+	{
+		"text": "wood",
+		"category": "Basic English words",
+		"subcategory": "Общие"
+	},
+	{
+		"text": "wool",
+		"category": "Basic English words",
+		"subcategory": "Общие"
+	},
+	{
+		"text": "word",
+		"category": "Basic English words",
+		"subcategory": "Общие"
+	},
+	{
+		"text": "work",
+		"category": "Basic English words",
+		"subcategory": "Общие"
+	},
+	{
+		"text": "wound",
+		"category": "Basic English words",
+		"subcategory": "Общие"
+	},
+	{
+		"text": "writing",
+		"category": "Basic English words",
+		"subcategory": "Общие"
+	},
+	{
+		"text": "angle",
+		"category": "Basic English words",
+		"subcategory": "Предметы и явления"
+	},
+	{
+		"text": "ant",
+		"category": "Basic English words",
+		"subcategory": "Предметы и явления"
+	},
+	{
+		"text": "apple",
+		"category": "Basic English words",
+		"subcategory": "Предметы и явления"
+	},
+	{
+		"text": "arch",
+		"category": "Basic English words",
+		"subcategory": "Предметы и явления"
+	},
+	{
+		"text": "arm",
+		"category": "Basic English words",
+		"subcategory": "Предметы и явления"
+	},
+	{
+		"text": "army",
+		"category": "Basic English words",
+		"subcategory": "Предметы и явления"
+	},
+	{
+		"text": "bag",
+		"category": "Basic English words",
+		"subcategory": "Предметы и явления"
+	},
+	{
+		"text": "ball",
+		"category": "Basic English words",
+		"subcategory": "Предметы и явления"
+	},
+	{
+		"text": "bank",
+		"category": "Basic English words",
+		"subcategory": "Предметы и явления"
+	},
+	{
+		"text": "basin",
+		"category": "Basic English words",
+		"subcategory": "Предметы и явления"
+	},
+	{
+		"text": "basket",
+		"category": "Basic English words",
+		"subcategory": "Предметы и явления"
+	},
+	{
+		"text": "bath",
+		"category": "Basic English words",
+		"subcategory": "Предметы и явления"
+	},
+	{
+		"text": "bed",
+		"category": "Basic English words",
+		"subcategory": "Предметы и явления"
+	},
+	{
+		"text": "bee",
+		"category": "Basic English words",
+		"subcategory": "Предметы и явления"
+	},
+	{
+		"text": "bell",
+		"category": "Basic English words",
+		"subcategory": "Предметы и явления"
+	},
+	{
+		"text": "berry",
+		"category": "Basic English words",
+		"subcategory": "Предметы и явления"
+	},
+	{
+		"text": "bird",
+		"category": "Basic English words",
+		"subcategory": "Предметы и явления"
+	},
+	{
+		"text": "blade",
+		"category": "Basic English words",
+		"subcategory": "Предметы и явления"
+	},
+	{
+		"text": "board",
+		"category": "Basic English words",
+		"subcategory": "Предметы и явления"
+	},
+	{
+		"text": "boat",
+		"category": "Basic English words",
+		"subcategory": "Предметы и явления"
+	},
+	{
+		"text": "bone",
+		"category": "Basic English words",
+		"subcategory": "Предметы и явления"
+	},
+	{
+		"text": "book",
+		"category": "Basic English words",
+		"subcategory": "Предметы и явления"
+	},
+	{
+		"text": "boot",
+		"category": "Basic English words",
+		"subcategory": "Предметы и явления"
+	},
+	{
+		"text": "bottle",
+		"category": "Basic English words",
+		"subcategory": "Предметы и явления"
+	},
+	{
+		"text": "box",
+		"category": "Basic English words",
+		"subcategory": "Предметы и явления"
+	},
+	{
+		"text": "boy",
+		"category": "Basic English words",
+		"subcategory": "Предметы и явления"
+	},
+	{
+		"text": "brain",
+		"category": "Basic English words",
+		"subcategory": "Предметы и явления"
+	},
+	{
+		"text": "brake",
+		"category": "Basic English words",
+		"subcategory": "Предметы и явления"
+	},
+	{
+		"text": "branch",
+		"category": "Basic English words",
+		"subcategory": "Предметы и явления"
+	},
+	{
+		"text": "brick",
+		"category": "Basic English words",
+		"subcategory": "Предметы и явления"
+	},
+	{
+		"text": "bridge",
+		"category": "Basic English words",
+		"subcategory": "Предметы и явления"
+	},
+	{
+		"text": "brush",
+		"category": "Basic English words",
+		"subcategory": "Предметы и явления"
+	},
+	{
+		"text": "bucket",
+		"category": "Basic English words",
+		"subcategory": "Предметы и явления"
+	},
+	{
+		"text": "bulb",
+		"category": "Basic English words",
+		"subcategory": "Предметы и явления"
+	},
+	{
+		"text": "button",
+		"category": "Basic English words",
+		"subcategory": "Предметы и явления"
+	},
+	{
+		"text": "baby - ребёнок, младенец",
+		"category": "Basic English words",
+		"subcategory": "Предметы и явления"
+	},
+	{
+		"text": "cake",
+		"category": "Basic English words",
+		"subcategory": "Предметы и явления"
+	},
+	{
+		"text": "camera",
+		"category": "Basic English words",
+		"subcategory": "Предметы и явления"
+	},
+	{
+		"text": "card",
+		"category": "Basic English words",
+		"subcategory": "Предметы и явления"
+	},
+	{
+		"text": "cart",
+		"category": "Basic English words",
+		"subcategory": "Предметы и явления"
+	},
+	{
+		"text": "carriage",
+		"category": "Basic English words",
+		"subcategory": "Предметы и явления"
+	},
+	{
+		"text": "cat",
+		"category": "Basic English words",
+		"subcategory": "Предметы и явления"
+	},
+	{
+		"text": "chain",
+		"category": "Basic English words",
+		"subcategory": "Предметы и явления"
+	},
+	{
+		"text": "cheese",
+		"category": "Basic English words",
+		"subcategory": "Предметы и явления"
+	},
+	{
+		"text": "chest",
+		"category": "Basic English words",
+		"subcategory": "Предметы и явления"
+	},
+	{
+		"text": "chin",
+		"category": "Basic English words",
+		"subcategory": "Предметы и явления"
+	},
+	{
+		"text": "church",
+		"category": "Basic English words",
+		"subcategory": "Предметы и явления"
+	},
+	{
+		"text": "circle",
+		"category": "Basic English words",
+		"subcategory": "Предметы и явления"
+	},
+	{
+		"text": "clock",
+		"category": "Basic English words",
+		"subcategory": "Предметы и явления"
+	},
+	{
+		"text": "cloud",
+		"category": "Basic English words",
+		"subcategory": "Предметы и явления"
+	},
+	{
+		"text": "coat",
+		"category": "Basic English words",
+		"subcategory": "Предметы и явления"
+	},
+	{
+		"text": "collar",
+		"category": "Basic English words",
+		"subcategory": "Предметы и явления"
+	},
+	{
+		"text": "comb",
+		"category": "Basic English words",
+		"subcategory": "Предметы и явления"
+	},
+	{
+		"text": "cord",
+		"category": "Basic English words",
+		"subcategory": "Предметы и явления"
+	},
+	{
+		"text": "cow",
+		"category": "Basic English words",
+		"subcategory": "Предметы и явления"
+	},
+	{
+		"text": "cup",
+		"category": "Basic English words",
+		"subcategory": "Предметы и явления"
+	},
+	{
+		"text": "curtain",
+		"category": "Basic English words",
+		"subcategory": "Предметы и явления"
+	},
+	{
+		"text": "cushion",
+		"category": "Basic English words",
+		"subcategory": "Предметы и явления"
+	},
+	{
+		"text": "dog",
+		"category": "Basic English words",
+		"subcategory": "Предметы и явления"
+	},
+	{
+		"text": "door",
+		"category": "Basic English words",
+		"subcategory": "Предметы и явления"
+	},
+	{
+		"text": "drain",
+		"category": "Basic English words",
+		"subcategory": "Предметы и явления"
+	},
+	{
+		"text": "drawer",
+		"category": "Basic English words",
+		"subcategory": "Предметы и явления"
+	},
+	{
+		"text": "dress",
+		"category": "Basic English words",
+		"subcategory": "Предметы и явления"
+	},
+	{
+		"text": "drop",
+		"category": "Basic English words",
+		"subcategory": "Предметы и явления"
+	},
+	{
+		"text": "ear",
+		"category": "Basic English words",
+		"subcategory": "Предметы и явления"
+	},
+	{
+		"text": "egg",
+		"category": "Basic English words",
+		"subcategory": "Предметы и явления"
+	},
+	{
+		"text": "engine",
+		"category": "Basic English words",
+		"subcategory": "Предметы и явления"
+	},
+	{
+		"text": "eye",
+		"category": "Basic English words",
+		"subcategory": "Предметы и явления"
+	},
+	{
+		"text": "face",
+		"category": "Basic English words",
+		"subcategory": "Предметы и явления"
+	},
+	{
+		"text": "farm",
+		"category": "Basic English words",
+		"subcategory": "Предметы и явления"
+	},
+	{
+		"text": "feather",
+		"category": "Basic English words",
+		"subcategory": "Предметы и явления"
+	},
+	{
+		"text": "finger",
+		"category": "Basic English words",
+		"subcategory": "Предметы и явления"
+	},
+	{
+		"text": "fish",
+		"category": "Basic English words",
+		"subcategory": "Предметы и явления"
+	},
+	{
+		"text": "flag",
+		"category": "Basic English words",
+		"subcategory": "Предметы и явления"
+	},
+	{
+		"text": "floor",
+		"category": "Basic English words",
+		"subcategory": "Предметы и явления"
+	},
+	{
+		"text": "fly",
+		"category": "Basic English words",
+		"subcategory": "Предметы и явления"
+	},
+	{
+		"text": "foot",
+		"category": "Basic English words",
+		"subcategory": "Предметы и явления"
+	},
+	{
+		"text": "fork",
+		"category": "Basic English words",
+		"subcategory": "Предметы и явления"
+	},
+	{
+		"text": "fowl",
+		"category": "Basic English words",
+		"subcategory": "Предметы и явления"
+	},
+	{
+		"text": "frame",
+		"category": "Basic English words",
+		"subcategory": "Предметы и явления"
+	},
+	{
+		"text": "garden",
+		"category": "Basic English words",
+		"subcategory": "Предметы и явления"
+	},
+	{
+		"text": "girl",
+		"category": "Basic English words",
+		"subcategory": "Предметы и явления"
+	},
+	{
+		"text": "glove",
+		"category": "Basic English words",
+		"subcategory": "Предметы и явления"
+	},
+	{
+		"text": "goat",
+		"category": "Basic English words",
+		"subcategory": "Предметы и явления"
+	},
+	{
+		"text": "gun",
+		"category": "Basic English words",
+		"subcategory": "Предметы и явления"
+	},
+	{
+		"text": "hair",
+		"category": "Basic English words",
+		"subcategory": "Предметы и явления"
+	},
+	{
+		"text": "hammer",
+		"category": "Basic English words",
+		"subcategory": "Предметы и явления"
+	},
+	{
+		"text": "hand",
+		"category": "Basic English words",
+		"subcategory": "Предметы и явления"
+	},
+	{
+		"text": "hat",
+		"category": "Basic English words",
+		"subcategory": "Предметы и явления"
+	},
+	{
+		"text": "head",
+		"category": "Basic English words",
+		"subcategory": "Предметы и явления"
+	},
+	{
+		"text": "heart",
+		"category": "Basic English words",
+		"subcategory": "Предметы и явления"
+	},
+	{
+		"text": "hook",
+		"category": "Basic English words",
+		"subcategory": "Предметы и явления"
+	},
+	{
+		"text": "horn",
+		"category": "Basic English words",
+		"subcategory": "Предметы и явления"
+	},
+	{
+		"text": "horse",
+		"category": "Basic English words",
+		"subcategory": "Предметы и явления"
+	},
+	{
+		"text": "hospital",
+		"category": "Basic English words",
+		"subcategory": "Предметы и явления"
+	},
+	{
+		"text": "house",
+		"category": "Basic English words",
+		"subcategory": "Предметы и явления"
+	},
+	{
+		"text": "island",
+		"category": "Basic English words",
+		"subcategory": "Предметы и явления"
+	},
+	{
+		"text": "jewel",
+		"category": "Basic English words",
+		"subcategory": "Предметы и явления"
+	},
+	{
+		"text": "kettle",
+		"category": "Basic English words",
+		"subcategory": "Предметы и явления"
+	},
+	{
+		"text": "key",
+		"category": "Basic English words",
+		"subcategory": "Предметы и явления"
+	},
+	{
+		"text": "knee",
+		"category": "Basic English words",
+		"subcategory": "Предметы и явления"
+	},
+	{
+		"text": "knife",
+		"category": "Basic English words",
+		"subcategory": "Предметы и явления"
+	},
+	{
+		"text": "knot",
+		"category": "Basic English words",
+		"subcategory": "Предметы и явления"
+	},
+	{
+		"text": "leaf",
+		"category": "Basic English words",
+		"subcategory": "Предметы и явления"
+	},
+	{
+		"text": "leg",
+		"category": "Basic English words",
+		"subcategory": "Предметы и явления"
+	},
+	{
+		"text": "library",
+		"category": "Basic English words",
+		"subcategory": "Предметы и явления"
+	},
+	{
+		"text": "line",
+		"category": "Basic English words",
+		"subcategory": "Предметы и явления"
+	},
+	{
+		"text": "lip",
+		"category": "Basic English words",
+		"subcategory": "Предметы и явления"
+	},
+	{
+		"text": "lock",
+		"category": "Basic English words",
+		"subcategory": "Предметы и явления"
+	},
+	{
+		"text": "map",
+		"category": "Basic English words",
+		"subcategory": "Предметы и явления"
+	},
+	{
+		"text": "match",
+		"category": "Basic English words",
+		"subcategory": "Предметы и явления"
+	},
+	{
+		"text": "monkey",
+		"category": "Basic English words",
+		"subcategory": "Предметы и явления"
+	},
+	{
+		"text": "moon",
+		"category": "Basic English words",
+		"subcategory": "Предметы и явления"
+	},
+	{
+		"text": "mouth",
+		"category": "Basic English words",
+		"subcategory": "Предметы и явления"
+	},
+	{
+		"text": "muscle",
+		"category": "Basic English words",
+		"subcategory": "Предметы и явления"
+	},
+	{
+		"text": "nail",
+		"category": "Basic English words",
+		"subcategory": "Предметы и явления"
+	},
+	{
+		"text": "neck",
+		"category": "Basic English words",
+		"subcategory": "Предметы и явления"
+	},
+	{
+		"text": "needle",
+		"category": "Basic English words",
+		"subcategory": "Предметы и явления"
+	},
+	{
+		"text": "nerve",
+		"category": "Basic English words",
+		"subcategory": "Предметы и явления"
+	},
+	{
+		"text": "net",
+		"category": "Basic English words",
+		"subcategory": "Предметы и явления"
+	},
+	{
+		"text": "nose",
+		"category": "Basic English words",
+		"subcategory": "Предметы и явления"
+	},
+	{
+		"text": "nut",
+		"category": "Basic English words",
+		"subcategory": "Предметы и явления"
+	},
+	{
+		"text": "office",
+		"category": "Basic English words",
+		"subcategory": "Предметы и явления"
+	},
+	{
+		"text": "orange",
+		"category": "Basic English words",
+		"subcategory": "Предметы и явления"
+	},
+	{
+		"text": "oven",
+		"category": "Basic English words",
+		"subcategory": "Предметы и явления"
+	},
+	{
+		"text": "parcel",
+		"category": "Basic English words",
+		"subcategory": "Предметы и явления"
+	},
+	{
+		"text": "pen",
+		"category": "Basic English words",
+		"subcategory": "Предметы и явления"
+	},
+	{
+		"text": "pencil",
+		"category": "Basic English words",
+		"subcategory": "Предметы и явления"
+	},
+	{
+		"text": "picture",
+		"category": "Basic English words",
+		"subcategory": "Предметы и явления"
+	},
+	{
+		"text": "pig",
+		"category": "Basic English words",
+		"subcategory": "Предметы и явления"
+	},
+	{
+		"text": "pin",
+		"category": "Basic English words",
+		"subcategory": "Предметы и явления"
+	},
+	{
+		"text": "pipe",
+		"category": "Basic English words",
+		"subcategory": "Предметы и явления"
+	},
+	{
+		"text": "plane",
+		"category": "Basic English words",
+		"subcategory": "Предметы и явления"
+	},
+	{
+		"text": "plate",
+		"category": "Basic English words",
+		"subcategory": "Предметы и явления"
+	},
+	{
+		"text": "plow",
+		"category": "Basic English words",
+		"subcategory": "Предметы и явления"
+	},
+	{
+		"text": "pocket",
+		"category": "Basic English words",
+		"subcategory": "Предметы и явления"
+	},
+	{
+		"text": "pot",
+		"category": "Basic English words",
+		"subcategory": "Предметы и явления"
+	},
+	{
+		"text": "potato",
+		"category": "Basic English words",
+		"subcategory": "Предметы и явления"
+	},
+	{
+		"text": "prison",
+		"category": "Basic English words",
+		"subcategory": "Предметы и явления"
+	},
+	{
+		"text": "pump",
+		"category": "Basic English words",
+		"subcategory": "Предметы и явления"
+	},
+	{
+		"text": "rail",
+		"category": "Basic English words",
+		"subcategory": "Предметы и явления"
+	},
+	{
+		"text": "rat",
+		"category": "Basic English words",
+		"subcategory": "Предметы и явления"
+	},
+	{
+		"text": "receipt",
+		"category": "Basic English words",
+		"subcategory": "Предметы и явления"
+	},
+	{
+		"text": "ring",
+		"category": "Basic English words",
+		"subcategory": "Предметы и явления"
+	},
+	{
+		"text": "rod",
+		"category": "Basic English words",
+		"subcategory": "Предметы и явления"
+	},
+	{
+		"text": "roof",
+		"category": "Basic English words",
+		"subcategory": "Предметы и явления"
+	},
+	{
+		"text": "root",
+		"category": "Basic English words",
+		"subcategory": "Предметы и явления"
+	},
+	{
+		"text": "sail",
+		"category": "Basic English words",
+		"subcategory": "Предметы и явления"
+	},
+	{
+		"text": "school",
+		"category": "Basic English words",
+		"subcategory": "Предметы и явления"
+	},
+	{
+		"text": "scissors",
+		"category": "Basic English words",
+		"subcategory": "Предметы и явления"
+	},
+	{
+		"text": "screw",
+		"category": "Basic English words",
+		"subcategory": "Предметы и явления"
+	},
+	{
+		"text": "seed",
+		"category": "Basic English words",
+		"subcategory": "Предметы и явления"
+	},
+	{
+		"text": "sheep",
+		"category": "Basic English words",
+		"subcategory": "Предметы и явления"
+	},
+	{
+		"text": "shelf",
+		"category": "Basic English words",
+		"subcategory": "Предметы и явления"
+	},
+	{
+		"text": "ship",
+		"category": "Basic English words",
+		"subcategory": "Предметы и явления"
+	},
+	{
+		"text": "shirt",
+		"category": "Basic English words",
+		"subcategory": "Предметы и явления"
+	},
+	{
+		"text": "shoe",
+		"category": "Basic English words",
+		"subcategory": "Предметы и явления"
+	},
+	{
+		"text": "skin",
+		"category": "Basic English words",
+		"subcategory": "Предметы и явления"
+	},
+	{
+		"text": "skirt",
+		"category": "Basic English words",
+		"subcategory": "Предметы и явления"
+	},
+	{
+		"text": "snake",
+		"category": "Basic English words",
+		"subcategory": "Предметы и явления"
+	},
+	{
+		"text": "sock",
+		"category": "Basic English words",
+		"subcategory": "Предметы и явления"
+	},
+	{
+		"text": "spade",
+		"category": "Basic English words",
+		"subcategory": "Предметы и явления"
+	},
+	{
+		"text": "sponge",
+		"category": "Basic English words",
+		"subcategory": "Предметы и явления"
+	},
+	{
+		"text": "spoon",
+		"category": "Basic English words",
+		"subcategory": "Предметы и явления"
+	},
+	{
+		"text": "spring",
+		"category": "Basic English words",
+		"subcategory": "Предметы и явления"
+	},
+	{
+		"text": "square",
+		"category": "Basic English words",
+		"subcategory": "Предметы и явления"
+	},
+	{
+		"text": "stamp",
+		"category": "Basic English words",
+		"subcategory": "Предметы и явления"
+	},
+	{
+		"text": "star",
+		"category": "Basic English words",
+		"subcategory": "Предметы и явления"
+	},
+	{
+		"text": "station",
+		"category": "Basic English words",
+		"subcategory": "Предметы и явления"
+	},
+	{
+		"text": "stem",
+		"category": "Basic English words",
+		"subcategory": "Предметы и явления"
+	},
+	{
+		"text": "stick",
+		"category": "Basic English words",
+		"subcategory": "Предметы и явления"
+	},
+	{
+		"text": "stocking",
+		"category": "Basic English words",
+		"subcategory": "Предметы и явления"
+	},
+	{
+		"text": "stomach",
+		"category": "Basic English words",
+		"subcategory": "Предметы и явления"
+	},
+	{
+		"text": "store",
+		"category": "Basic English words",
+		"subcategory": "Предметы и явления"
+	},
+	{
+		"text": "street",
+		"category": "Basic English words",
+		"subcategory": "Предметы и явления"
+	},
+	{
+		"text": "sun",
+		"category": "Basic English words",
+		"subcategory": "Предметы и явления"
+	},
+	{
+		"text": "table",
+		"category": "Basic English words",
+		"subcategory": "Предметы и явления"
+	},
+	{
+		"text": "tail",
+		"category": "Basic English words",
+		"subcategory": "Предметы и явления"
+	},
+	{
+		"text": "thread",
+		"category": "Basic English words",
+		"subcategory": "Предметы и явления"
+	},
+	{
+		"text": "throat",
+		"category": "Basic English words",
+		"subcategory": "Предметы и явления"
+	},
+	{
+		"text": "thumb",
+		"category": "Basic English words",
+		"subcategory": "Предметы и явления"
+	},
+	{
+		"text": "ticket",
+		"category": "Basic English words",
+		"subcategory": "Предметы и явления"
+	},
+	{
+		"text": "toe",
+		"category": "Basic English words",
+		"subcategory": "Предметы и явления"
+	},
+	{
+		"text": "tongue",
+		"category": "Basic English words",
+		"subcategory": "Предметы и явления"
+	},
+	{
+		"text": "tooth",
+		"category": "Basic English words",
+		"subcategory": "Предметы и явления"
+	},
+	{
+		"text": "town",
+		"category": "Basic English words",
+		"subcategory": "Предметы и явления"
+	},
+	{
+		"text": "train",
+		"category": "Basic English words",
+		"subcategory": "Предметы и явления"
+	},
+	{
+		"text": "tray",
+		"category": "Basic English words",
+		"subcategory": "Предметы и явления"
+	},
+	{
+		"text": "tree",
+		"category": "Basic English words",
+		"subcategory": "Предметы и явления"
+	},
+	{
+		"text": "trousers",
+		"category": "Basic English words",
+		"subcategory": "Предметы и явления"
+	},
+	{
+		"text": "umbrella",
+		"category": "Basic English words",
+		"subcategory": "Предметы и явления"
+	},
+	{
+		"text": "wall",
+		"category": "Basic English words",
+		"subcategory": "Предметы и явления"
+	},
+	{
+		"text": "watch",
+		"category": "Basic English words",
+		"subcategory": "Предметы и явления"
+	},
+	{
+		"text": "wheel",
+		"category": "Basic English words",
+		"subcategory": "Предметы и явления"
+	},
+	{
+		"text": "whip",
+		"category": "Basic English words",
+		"subcategory": "Предметы и явления"
+	},
+	{
+		"text": "whistle",
+		"category": "Basic English words",
+		"subcategory": "Предметы и явления"
+	},
+	{
+		"text": "window",
+		"category": "Basic English words",
+		"subcategory": "Предметы и явления"
+	},
+	{
+		"text": "wing",
+		"category": "Basic English words",
+		"subcategory": "Предметы и явления"
+	},
+	{
+		"text": "wire",
+		"category": "Basic English words",
+		"subcategory": "Предметы и явления"
+	},
+	{
+		"text": "worm",
+		"category": "Basic English words",
+		"subcategory": "Предметы и явления"
+	},
+	{
+		"text": "awake",
+		"category": "Basic English words",
+		"subcategory": "Противоположные"
+	},
+	{
+		"text": "bad",
+		"category": "Basic English words",
+		"subcategory": "Противоположные"
+	},
+	{
+		"text": "bent",
+		"category": "Basic English words",
+		"subcategory": "Противоположные"
+	},
+	{
+		"text": "bitter",
+		"category": "Basic English words",
+		"subcategory": "Противоположные"
+	},
+	{
+		"text": "blue",
+		"category": "Basic English words",
+		"subcategory": "Противоположные"
+	},
+	{
+		"text": "certain",
+		"category": "Basic English words",
+		"subcategory": "Противоположные"
+	},
+	{
+		"text": "cold",
+		"category": "Basic English words",
+		"subcategory": "Противоположные"
+	},
+	{
+		"text": "complete",
+		"category": "Basic English words",
+		"subcategory": "Противоположные"
+	},
+	{
+		"text": "cruel",
+		"category": "Basic English words",
+		"subcategory": "Противоположные"
+	},
+	{
+		"text": "dark",
+		"category": "Basic English words",
+		"subcategory": "Противоположные"
+	},
+	{
+		"text": "dead",
+		"category": "Basic English words",
+		"subcategory": "Противоположные"
+	},
+	{
+		"text": "dear",
+		"category": "Basic English words",
+		"subcategory": "Противоположные"
+	},
+	{
+		"text": "delicate",
+		"category": "Basic English words",
+		"subcategory": "Противоположные"
+	},
+	{
+		"text": "different",
+		"category": "Basic English words",
+		"subcategory": "Противоположные"
+	},
+	{
+		"text": "dirty",
+		"category": "Basic English words",
+		"subcategory": "Противоположные"
+	},
+	{
+		"text": "dry",
+		"category": "Basic English words",
+		"subcategory": "Противоположные"
+	},
+	{
+		"text": "false",
+		"category": "Basic English words",
+		"subcategory": "Противоположные"
+	},
+	{
+		"text": "feeble",
+		"category": "Basic English words",
+		"subcategory": "Противоположные"
+	},
+	{
+		"text": "female",
+		"category": "Basic English words",
+		"subcategory": "Противоположные"
+	},
+	{
+		"text": "foolish",
+		"category": "Basic English words",
+		"subcategory": "Противоположные"
+	},
+	{
+		"text": "future",
+		"category": "Basic English words",
+		"subcategory": "Противоположные"
+	},
+	{
+		"text": "green",
+		"category": "Basic English words",
+		"subcategory": "Противоположные"
+	},
+	{
+		"text": "ill",
+		"category": "Basic English words",
+		"subcategory": "Противоположные"
+	},
+	{
+		"text": "last",
+		"category": "Basic English words",
+		"subcategory": "Противоположные"
+	},
+	{
+		"text": "late",
+		"category": "Basic English words",
+		"subcategory": "Противоположные"
+	},
+	{
+		"text": "left",
+		"category": "Basic English words",
+		"subcategory": "Противоположные"
+	},
+	{
+		"text": "loose",
+		"category": "Basic English words",
+		"subcategory": "Противоположные"
+	},
+	{
+		"text": "loud",
+		"category": "Basic English words",
+		"subcategory": "Противоположные"
+	},
+	{
+		"text": "low",
+		"category": "Basic English words",
+		"subcategory": "Противоположные"
+	},
+	{
+		"text": "mixed",
+		"category": "Basic English words",
+		"subcategory": "Противоположные"
+	},
+	{
+		"text": "narrow",
+		"category": "Basic English words",
+		"subcategory": "Противоположные"
+	},
+	{
+		"text": "old",
+		"category": "Basic English words",
+		"subcategory": "Противоположные"
+	},
+	{
+		"text": "opposite",
+		"category": "Basic English words",
+		"subcategory": "Противоположные"
+	},
+	{
+		"text": "public",
+		"category": "Basic English words",
+		"subcategory": "Противоположные"
+	},
+	{
+		"text": "rough",
+		"category": "Basic English words",
+		"subcategory": "Противоположные"
+	},
+	{
+		"text": "sad",
+		"category": "Basic English words",
+		"subcategory": "Противоположные"
+	},
+	{
+		"text": "safe",
+		"category": "Basic English words",
+		"subcategory": "Противоположные"
+	},
+	{
+		"text": "secret",
+		"category": "Basic English words",
+		"subcategory": "Противоположные"
+	},
+	{
+		"text": "short",
+		"category": "Basic English words",
+		"subcategory": "Противоположные"
+	},
+	{
+		"text": "simple",
+		"category": "Basic English words",
+		"subcategory": "Противоположные"
+	},
+	{
+		"text": "slow",
+		"category": "Basic English words",
+		"subcategory": "Противоположные"
+	},
+	{
+		"text": "small",
+		"category": "Basic English words",
+		"subcategory": "Противоположные"
+	},
+	{
+		"text": "soft",
+		"category": "Basic English words",
+		"subcategory": "Противоположные"
+	},
+	{
+		"text": "solid",
+		"category": "Basic English words",
+		"subcategory": "Противоположные"
+	},
+	{
+		"text": "special",
+		"category": "Basic English words",
+		"subcategory": "Противоположные"
+	},
+	{
+		"text": "strange",
+		"category": "Basic English words",
+		"subcategory": "Противоположные"
+	},
+	{
+		"text": "thin",
+		"category": "Basic English words",
+		"subcategory": "Противоположные"
+	},
+	{
+		"text": "white",
+		"category": "Basic English words",
+		"subcategory": "Противоположные"
+	},
+	{
+		"text": "wrong",
+		"category": "Basic English words",
+		"subcategory": "Противоположные"
+	}
+]

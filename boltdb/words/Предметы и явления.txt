@@ -1,0 +1,200 @@
+angle - угол, поворачивать
+ant - муравей
+apple - яблоко
+arch - арка, дуга, выгибать
+arm - рука, вооружать
+army - армия
+bag - сумка
+ball - мяч
+bank - банк
+basin - бассейн
+basket - корзина
+bath - ванна, купаться
+bed - кровать
+bee - пчела
+bell - колокольчик
+berry - ягода
+bird - птица
+blade - лезвие
+board - доска
+boat - лодка, судно
+bone - кость
+book - книга
+boot - ботинок, загружать
+bottle - бутылка
+box - коробка
+boy - мальчик
+brain - мозг
+brake - тормоз, тормозить
+branch - ветвь, отделение
+brick - кирпич
+bridge - мост
+brush - щётка, кисть
+bucket - ведро, черпать
+bulb - луковица, выпирать
+button - кнопка, застёгивать
+baby - ребёнок, младенец
+cake - пирог
+camera - камера
+card - карта, чесать
+cart - везти
+carriage - вагон
+cat - кот
+chain - цепь, сеть
+cheese - сыр
+chest - грудь, сундук
+chin - подбородок
+church - церковь
+circle - круг
+clock - часы
+cloud - облако
+coat - пальто, покрывать
+collar - воротник, хватать
+comb - расчёсывать
+cord - шнур, связывать
+cow - корова
+cup - чашка
+curtain - занавес, штора, занавешивать
+cushion - подушка, смягчать
+dog - собака
+door - дверь
+drain - утечка, истощать
+drawer - ящик
+dress - платье, одевать
+drop - капля, опускать
+ear - ухо
+egg - яйцо
+engine - двигатель
+eye - глаз
+face - лицо
+farm - ферма
+feather - перо, украшать
+finger - палец
+fish - рыба
+flag - флаг, сигнализировать
+floor - пол, этаж, дно
+fly - муха, лететь
+foot - нога
+fork - вилка
+fowl - домашняя птица
+frame - структура, рамка, создавать
+garden - сад
+girl - девочка
+glove - перчатка
+goat - коза
+gun - оружие
+hair - волосы
+hammer - молоток
+hand - рука
+hat - шляпа
+head - голова
+heart - сердце
+hook - крюк, вербовать
+horn - рожок
+horse - лошадь
+hospital - больница
+house - дом
+island - остров
+jewel - драгоценный камень
+kettle - чайник
+key - ключ
+knee - колено
+knife - нож
+knot - узел
+leaf - лист, покрывать листвой
+leg - нога
+library - библиотека
+line - линия, очередь, выравнивать
+lip - губа
+lock - замок
+map - карта
+match - спичка, сделки, соответствовать
+monkey - обезьяна
+moon - луна
+mouth - рот, жевать
+muscle - мускул
+nail - ноготь
+neck - шея, обниматься
+needle - игла
+nerve - нерв
+net - чистый, сеть
+nose - нос
+nut - орех
+office - офис
+orange - апельсин, оранжевый
+oven - духовка, печь
+parcel - пакет, распределять
+pen - ручка
+pencil - карандаш
+picture - картина
+pig - свинья
+pin - булавка, прикреплять
+pipe - труба
+plane - самолёт
+plate - пластина
+plow - плуг, пахать
+pocket - карман, присваивать
+pot - горшок
+potato - картофель
+prison - тюрьма
+pump - насос, качать
+rail - рельс, перевозить поездом
+rat - крыса
+receipt - квитанция
+ring - кольцо, звонить
+rod - прут
+roof - крыша
+root - корень
+sail - парус
+school - школа
+scissors - ножницы
+screw - винт
+seed - семя
+sheep - овцы
+shelf - полка
+ship - корабль
+shirt - рубашка
+shoe - ботинок
+skin - кожа, очищать
+skirt - юбка
+snake - змея
+sock - носок
+spade - лопата
+sponge - губка
+spoon - ложка
+spring - весна
+square - квадрат
+stamp - печать, марка, отпечатывать
+star - звезда
+station - станция
+stem - стебель, происходить
+stick - палка, прикреплять
+stocking - снабжать
+stomach - живот, смелость, переваривать
+store - магазин, запас
+street - улица
+sun - солнце
+table - стол
+tail - хвост, выслеживать
+thread - нить, пронизывать
+throat - горло
+thumb - листать, большой палец
+ticket - билет
+toe - палец ноги
+tongue - язык
+tooth - зуб
+town - город
+train - поезд
+tray - поднос
+tree - дерево
+trousers - брюки
+umbrella - зонт
+wall - стена
+watch - часы
+wheel - колесо, вертеть
+whip - кнут, хлестать
+whistle - свист, свистеть
+window - окно
+wing - крыло
+wire - провод
+worm - червь
