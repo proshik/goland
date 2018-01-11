@@ -1,0 +1,12 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+
+msgid "Mary"
+msgstr "МЭРИИИ"
+
+msgid "lamb"
+msgstr "ЯГНИЩЕ"
+
+msgid "%s had a little %s"
+msgstr "Мы имели %s ДА ПРОСРАЛИ %s"

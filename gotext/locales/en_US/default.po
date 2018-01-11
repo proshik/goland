@@ -1,0 +1,12 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+
+msgid "Mary"
+msgstr "Mary"
+
+msgid "lamb"
+msgstr "lamb"
+
+msgid "%s had a little %s"
+msgstr "%s had a little %s"
