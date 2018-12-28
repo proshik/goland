@@ -1,16 +1,16 @@
 package main
 
 import (
+	"bufio"
 	"encoding/binary"
 	"encoding/json"
-	"github.com/boltdb/bolt"
-	"log"
-	"time"
-	"os"
 	"fmt"
+	"github.com/boltdb/bolt"
 	"io/ioutil"
-	"bufio"
+	"log"
+	"os"
 	"strings"
+	"time"
 )
 
 const (
@@ -70,7 +70,6 @@ type Attr struct {
 	Gen  string `json:"gen"`
 }
 
-
 type DBConnect struct {
 	path string
 }
@@ -119,7 +118,6 @@ func (c *DBConnect) AddWord(word Word) (*Word, error) {
 	}
 
 	return &word, nil
-
 }
 
 func (c *DBConnect) CountWords() (int, error) {
@@ -193,7 +191,6 @@ func itob(v int) []byte {
 	binary.BigEndian.PutUint64(b, uint64(v))
 	return b
 }
-
 
 func fillBasicEnglishWords(yandex *YDict, db *DBConnect) {
 	file, err := os.Open("result.json")
@@ -275,4 +272,3 @@ func readRawWords() {
 
 	fmt.Printf("Result connt %d\n", count)
 }
-

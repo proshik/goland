@@ -1,0 +1,1 @@
+easyjson.exe --all zip/account.go
