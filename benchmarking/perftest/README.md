@@ -4,7 +4,7 @@
 
 ```bash
 $ cd benchmarking/perftest
-$ go test -bench=.
+$ go test -benchmem -bench=. 
 ```
 
 ## With CPU profiling (with disabling GC)
