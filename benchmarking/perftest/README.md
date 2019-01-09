@@ -11,6 +11,7 @@ $ go test -bench=.
 
 ```bash
 $ GOGC=off go test -bench=BenchmarkRegex -cpuprofile cpu.out
+# change the name of file
 $ go tool pprof perftest.test.exe cpu.out
 ~ web
 
