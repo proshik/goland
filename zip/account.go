@@ -13,19 +13,19 @@ type AccountData struct {
 }
 
 type Account struct {
-	ID           int32    `json:"id"`
-	Email        []byte   `json:"email"`
-	Fname        []byte   `json:"fname"`
-	Sname        []byte   `json:"sname"`
-	Phone        []byte   `json:"phone"`
-	Sex          byte     `json:"sex"`
-	Birth        int32    `json:"birth"`
-	Country      []byte   `json:"country"`
-	City         []byte   `json:"city"`
-	Joined       int32    `json:"joined"`
-	Status       []byte   `json:"status"`
-	Interests    [][]byte `json:"interests"`
-	Premium      Premium  `json:"premium"`
+	ID      int32  `json:"id"`
+	Email   []byte `json:"email"`
+	Fname   []byte `json:"fname"`
+	Sname   []byte `json:"sname"`
+	Phone   []byte `json:"phone"`
+	Sex     byte   `json:"sex"`
+	Birth   int32  `json:"birth"`
+	Country []byte `json:"country"`
+	City    []byte `json:"city"`
+	Joined  int32  `json:"joined"`
+	Status  []byte `json:"status"`
+	//Interests    [][]byte `json:"interests"`
+	Premium      Premium `json:"premium"`
 	PremiumAdded bool
 	Likes        []Like `json:"likes"`
 }
@@ -51,6 +51,8 @@ var (
 //var AccountsRes = make([]Account, 1301000)
 
 var AccountsRes = make([]Account, 1301000)
+var InterestsRes = make([][]byte, 91, 91)
+var InterestsIndex = make(map[string]int32, 90)
 
 //var LikeRes = make(map[int32][]Like)
 
@@ -105,10 +107,25 @@ func ParseAccount(value []byte, fallEmptyValues bool) error {
 		return errors.New("required field has empty value")
 	}
 
-	var interests [][]byte
+	var interestIds []int32
 	_, err = jsonparser.ArrayEach(value, func(bInterest []byte, dtInterests jsonparser.ValueType, oInterests int, err error) {
 		if len(bInterest) > 0 {
-			interests = append(interests, bInterest)
+
+			unescapedInter := Utf8Unescaped(bInterest)
+			if val, ok := InterestsIndex[string(unescapedInter)]; ok {
+				interestIds = append(interestIds, val)
+			} else {
+				var nextId int32
+				if len(InterestsIndex) != 0 {
+					nextId = int32(len(InterestsIndex) + 1)
+				}
+				InterestsIndex[string(unescapedInter)] = nextId
+
+				InterestsRes[nextId] = unescapedInter
+
+				interestIds = append(interestIds, nextId)
+			}
+
 		}
 	}, "interests")
 	if err != nil && err != jsonparser.KeyPathNotFoundError && fallEmptyValues {
@@ -179,7 +196,7 @@ func ParseAccount(value []byte, fallEmptyValues bool) error {
 
 	AccountsRes[fID] = Account{ID: fID, Email: email, Fname: Utf8Unescaped(fname), Sname: Utf8Unescaped(sname),
 		Phone: phone, Sex: sexByte, Birth: int32(birth), Country: Utf8Unescaped(country), City: Utf8Unescaped(city),
-		Joined: int32(joined), Status: Utf8Unescaped(status), Interests: interests, Premium: premium,
+		Joined: int32(joined), Status: Utf8Unescaped(status), Premium: premium,
 		PremiumAdded: PremiumAdded, Likes: likes}
 
 	//return &Account{ID: int32(ID), Email: email, Fname: fname,
@@ -207,8 +224,8 @@ func ToGo() {
 		city := []byte("\u0410\u043d\u0436\u0435\u043b\u0438\u043a\u0430 \u0410\u043d\u0436\u0435\u043b\u0438\u043a\u0430")
 		joined := 1398124800
 		status := []byte("ewheten@icloud.com")
-		interests := [][]byte{[]byte("\u0410\u043d\u0436\u0435\u043b\u0438\u043a\u0430"), []byte("\u0410\u043d\u0436\u0435\u043b\u0438\u043a\u0430"), []byte("\u0410\u043d\u0436\u0435\u043b\u0438\u043a\u0430"),
-			[]byte("\u0410\u043d\u0436\u0435\u043b\u0438\u043a\u0430"), []byte("\u0410\u043d\u0436\u0435\u043b\u0438\u043a\u0430")}
+		//interests := [][]byte{[]byte("\u0410\u043d\u0436\u0435\u043b\u0438\u043a\u0430"), []byte("\u0410\u043d\u0436\u0435\u043b\u0438\u043a\u0430"), []byte("\u0410\u043d\u0436\u0435\u043b\u0438\u043a\u0430"),
+		//	[]byte("\u0410\u043d\u0436\u0435\u043b\u0438\u043a\u0430"), []byte("\u0410\u043d\u0436\u0435\u043b\u0438\u043a\u0430")}
 		premium := Premium{Start: 1465481670, Finish: 1465481690}
 		PremiumAdded := true
 		likes := []Like{
@@ -226,7 +243,7 @@ func ToGo() {
 
 		AccountsRes[fID] = Account{ID: fID, Email: email, Fname: Utf8Unescaped(fname),
 			Sname: Utf8Unescaped(sname), Phone: phone, Sex: sexByte, Birth: int32(birth), Country: Utf8Unescaped(country),
-			City: Utf8Unescaped(city), Joined: int32(joined), Status: Utf8Unescaped(status), Interests: interests,
+			City: Utf8Unescaped(city), Joined: int32(joined), Status: Utf8Unescaped(status),
 			Premium: premium, PremiumAdded: PremiumAdded, Likes: likes}
 	}
 }
@@ -248,7 +265,7 @@ func ToGo2() {
 		a.City = Utf8Unescaped([]byte("\u0410\u043d\u0436\u0435\u043b\u0438\u043a\u0430"))
 		a.Joined = 1398124800
 		a.Status = Utf8Unescaped([]byte("ewheten@icloud.com"))
-		a.Interests = [][]byte{[]byte("\u0410\u043d\u0436\u0435\u043b\u0438\u043a\u0430"), []byte("\u0410\u043d\u0436\u0435\u043b\u0438\u043a\u0430")}
+		//a.Interests = [][]byte{[]byte("\u0410\u043d\u0436\u0435\u043b\u0438\u043a\u0430"), []byte("\u0410\u043d\u0436\u0435\u043b\u0438\u043a\u0430")}
 		a.Premium = Premium{Start: 1465481670, Finish: 1465481690}
 		a.PremiumAdded = true
 		a.Likes = []Like{{Ts: 1500393366, ID: 14773}, {Ts: 1500393366, ID: 14773}, {Ts: 1500393366, ID: 14773}, {Ts: 1500393366, ID: 14773},

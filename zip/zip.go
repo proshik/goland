@@ -1,9 +1,12 @@
 package main
 
 import (
+	"archive/zip"
 	"bytes"
 	"fmt"
+	"github.com/buger/jsonparser"
 	"runtime"
+	"strings"
 )
 
 //var accounts = make(map[int32]Account)
@@ -24,66 +27,66 @@ func main() {
 	//
 	//printMemUsage()
 
-	Run()
+	//Run()
 
-	//z, err := zip.OpenReader("/Users/proshik/Work/highloadcup_data/elim_accounts_261218/data/data.zip")
-	//if err != nil {
-	//	panic(err)
-	//}
-	//
-	//defer z.Close()
-	//
-	//files := map[string]*zip.File{}
-	//for _, f := range z.File {
-	//	if !strings.Contains(f.Name, "accounts") {
-	//		continue
-	//	}
-	//
-	//	files[f.Name] = f
-	//}
-	//
-	//var fileNumber int
-	//for _, f := range files {
-	//	// miss not account files
-	//	if !strings.Contains(f.Name, "accounts") {
-	//		continue
-	//	}
-	//	//fmt.Printf("Being reading f: %s\n", f.Name)
-	//
-	//	jsonFile, err := f.Open()
-	//	if err != nil {
-	//		panic(err)
-	//	}
-	//
-	//	buf.Reset()
-	//	_, err = buf.ReadFrom(jsonFile)
-	//	if err != nil {
-	//		panic(err)
-	//	}
-	//
-	//	_, err = jsonparser.ArrayEach(buf.Bytes(), func(value []byte, dataType jsonparser.ValueType, offset int, err error) {
-	//		err = ParseAccount(value, true)
-	//		if err != nil {
-	//			return
-	//		}
-	//		//accounts[a.ID] = *a
-	//	}, "accounts")
-	//	if err != nil {
-	//		panic(err)
-	//	}
-	//
-	//	printMemUsage()
-	//
-	//	fileNumber++
-	//	fmt.Printf("Readed file with number: %d\n", fileNumber)
-	//}
-	//
-	//buf.Reset()
-	//
-	//runtime.GC()
-	//
-	//fmt.Printf("After:\n")
-	//printMemUsage()
+	z, err := zip.OpenReader("zip/data_huge.zip")
+	if err != nil {
+		panic(err)
+	}
+
+	defer z.Close()
+
+	files := map[string]*zip.File{}
+	for _, f := range z.File {
+		if !strings.Contains(f.Name, "accounts") {
+			continue
+		}
+
+		files[f.Name] = f
+	}
+
+	var fileNumber int
+	for _, f := range files {
+		// miss not account files
+		if !strings.Contains(f.Name, "accounts") {
+			continue
+		}
+		//fmt.Printf("Being reading f: %s\n", f.Name)
+
+		jsonFile, err := f.Open()
+		if err != nil {
+			panic(err)
+		}
+
+		buf.Reset()
+		_, err = buf.ReadFrom(jsonFile)
+		if err != nil {
+			panic(err)
+		}
+
+		_, err = jsonparser.ArrayEach(buf.Bytes(), func(value []byte, dataType jsonparser.ValueType, offset int, err error) {
+			err = ParseAccount(value, true)
+			if err != nil {
+				return
+			}
+			//accounts[a.ID] = *a
+		}, "accounts")
+		if err != nil {
+			panic(err)
+		}
+
+		printMemUsage()
+
+		fileNumber++
+		fmt.Printf("Readed file with number: %d\n", fileNumber)
+	}
+
+	buf.Reset()
+
+	runtime.GC()
+
+	fmt.Printf("After:\n")
+	printMemUsage()
 }
 
 func Run() {
