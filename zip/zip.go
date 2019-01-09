@@ -1,147 +1,113 @@
 package main
 
 import (
-	"archive/zip"
 	"bytes"
 	"fmt"
-	"github.com/buger/jsonparser"
 	"runtime"
-	"strings"
-	"unsafe"
 )
 
-var accounts = make([]Account, 1300010)
+//var accounts = make(map[int32]Account)
+
+var buf bytes.Buffer
+
+//var LikesR = make([]Like, 44000010)
 
 func main() {
-	z, err := zip.OpenReader("./zip/data_huge.zip")
-	if err != nil {
-		panic(err)
+	//printMemUsage()
+	//var i int32
+	//for i = 0; i< 44000000; i++ {
+	//	LikesR[i]= Like{Ts: 1500393366, ID: 14773}
+	//}
+	//printMemUsage()
+	//
+	//runtime.GC()
+	//
+	//printMemUsage()
+
+	Run()
+
+	//z, err := zip.OpenReader("/Users/proshik/Work/highloadcup_data/elim_accounts_261218/data/data.zip")
+	//if err != nil {
+	//	panic(err)
+	//}
+	//
+	//defer z.Close()
+	//
+	//files := map[string]*zip.File{}
+	//for _, f := range z.File {
+	//	if !strings.Contains(f.Name, "accounts") {
+	//		continue
+	//	}
+	//
+	//	files[f.Name] = f
+	//}
+	//
+	//var fileNumber int
+	//for _, f := range files {
+	//	// miss not account files
+	//	if !strings.Contains(f.Name, "accounts") {
+	//		continue
+	//	}
+	//	//fmt.Printf("Being reading f: %s\n", f.Name)
+	//
+	//	jsonFile, err := f.Open()
+	//	if err != nil {
+	//		panic(err)
+	//	}
+	//
+	//	buf.Reset()
+	//	_, err = buf.ReadFrom(jsonFile)
+	//	if err != nil {
+	//		panic(err)
+	//	}
+	//
+	//	_, err = jsonparser.ArrayEach(buf.Bytes(), func(value []byte, dataType jsonparser.ValueType, offset int, err error) {
+	//		err = ParseAccount(value, true)
+	//		if err != nil {
+	//			return
+	//		}
+	//		//accounts[a.ID] = *a
+	//	}, "accounts")
+	//	if err != nil {
+	//		panic(err)
+	//	}
+	//
+	//	printMemUsage()
+	//
+	//	fileNumber++
+	//	fmt.Printf("Readed file with number: %d\n", fileNumber)
+	//}
+	//
+	//buf.Reset()
+	//
+	//runtime.GC()
+	//
+	//fmt.Printf("After:\n")
+	//printMemUsage()
+}
+
+func Run() {
+
+	fmt.Printf("Before:\n")
+	printMemUsage()
+
+	//var fileNumber int
+	for i := 0; i < 130; i++ {
+
+		ToGo()
+
+		//printMemUsage()
+
+		//fileNumber++
+		//fmt.Printf("Readed file with number: %d\n", fileNumber)
 	}
-
-	defer z.Close()
-
-	//res := make(map[string][]byte, 0)
-	var buf bytes.Buffer
-	//var accounts
-	i := 0
-	files := map[string]*zip.File{}
-
-	for _, f := range z.File {
-		if !strings.Contains(f.Name, "accounts") {
-			continue
-		}
-
-		files[f.Name] = f
-	}
-
-	for _, f := range files {
-		// miss not account files
-		if !strings.Contains(f.Name, "accounts") {
-			continue
-		}
-
-		//timeSave := time.Now()
-		fmt.Printf("Being reading f: %s\n", f.Name)
-		//func() {
-		jsonFile, err := f.Open()
-		if err != nil {
-			panic(err)
-		}
-
-		buf.Reset()
-		buf.ReadFrom(jsonFile)
-
-		// easyJson
-
-		//var data AccountDataIn
-		//data.UnmarshalJSON(buf.Bytes())
-		//for i := range data.Account {
-		//	accounts[data.Account[i].ID] = data.Account[i]
-		//}
-
-		parseErr := false
-
-		_, err = jsonparser.ArrayEach(buf.Bytes(), func(value []byte, dataType jsonparser.ValueType, offset int, err error) {
-			//jsonparser.ObjectEach(value, func(key []byte, value []byte, dataType jsonparser.ValueType, offset int) error {
-			//	fmt.Printf("Key: '%s'\n Value: '%s'\n Type: %s\n", string(key), string(value), dataType)
-			//	return nil
-			//}, "premium")
-
-			id, err := jsonparser.GetInt(value, "id")
-			if err != nil {
-				parseErr = true
-				return
-			}
-			email, _, _, err := jsonparser.Get(value, "email")
-			if err != nil {
-				parseErr = true
-				return
-			}
-
-			birth, err := jsonparser.GetInt(value, "birth")
-			if err != nil {
-				parseErr = true
-				return
-			}
-
-			accounts[id] = Account{ID: int32(id), Email: email, Birth: birth}
-
-		}, "accounts")
-		if err != nil {
-			panic(err)
-		}
-
-		if parseErr {
-			fmt.Println("I believe is error")
-		}
-
-		jsonFile.Close()
-
-		//byteValue, err := ioutil.ReadAll(jsonFile)
-		//if err != nil {
-		//	panic(err)
-		//}
-
-		//nextAccountSlice := parseAccount(byteValue)
-
-		//for i := range nextAccountSlice {
-		//	l.aMw.Add(&nextAccountSlice[i])
-		//}
-
-		//res[f.Name] = append(res[f.Name], buf.Bytes()...)
-
-		//accounts = append(accounts, data.Account...)
-
-		//accounts = append(accounts, data.Account...)
-		//}()
-
-		i++
-		fmt.Printf("number of file: %d\n", i)
-		//fmt.Printf("Loaded data from f for time %v\n", time.Since(timeSave))
-
-		//runtime.GC()
-
-		printMemUsage()
-	}
+	printMemUsage()
 
 	runtime.GC()
 
+	fmt.Printf("After:\n")
 	printMemUsage()
-
-	fmt.Printf("len=%d, size=%v", len(accounts), unsafe.Sizeof(accounts))
-
 }
-
-//func parseAccount(byteValue []byte) []model.Account {
-//
-//	var data model.AccountDataIn
-//	err := json.Unmarshal(byteValue, &data)
-//	if err != nil {
-//		panic(err)
-//	}
-//
-//	return data.Accounts
-//}
 
 func printMemUsage() {
 	var m runtime.MemStats
